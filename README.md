@@ -18,6 +18,7 @@ https://github.com/thma/LtuPatternFactory
 ### Books
 
 
+
 - Get Programming with Haskell, Will Kurt
   https://www.manning.com/books/get-programming-with-haskell
 
