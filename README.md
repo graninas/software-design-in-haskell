@@ -30,6 +30,23 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 # Design Approaches
 
+### Final Tagless
+
+
+
+- Tagless Final Encoding in Haskell, Juan Pablo Royo
+  https://jproyo.github.io/posts/2019-03-17-tagless-final-haskell.html
+
+- Introduction to Tagless Final, Vasiliy Kevroletin, Serokell
+  https://serokell.io/blog/tagless-final
+  Note: wrong statements about Free Monads
+
+- Reducing boilerplate in finally tagless style, Roman Cheplyaka
+  https://ro-che.info/articles/2016-02-03-finally-tagless-boilerplate
+
+- Tagless Final Encoding of a Test Language,
+  https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html
+
 # Haskell Learn
 ### Books
 
