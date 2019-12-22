@@ -218,6 +218,8 @@ TODO: Error handling
 
 - TODO: Table with Software Design discipline topic coverability
 - Boring Haskell substet voting
+- TODO: Learning Path (graph or table)
+- TODO: Haskell seniority levels
 
 ### Read, Assess & Classify
 
