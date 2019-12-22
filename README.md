@@ -172,6 +172,8 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
   Talk (Rus) https://youtu.be/u1GGqDQyGfc
   Slides (Eng)
 
+TODO: Comparison table for design approaches, patterns and architectures
+
 # Best Practices
 
 - Figuring Out How To Use Beam For DB Migrations. Willam Yao
