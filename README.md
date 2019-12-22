@@ -10,7 +10,7 @@ A structured set of materials on how to build real-world applications in Haskell
 * [Application Architectures](#Application-Architectures)
 * [Design Approaches](#Design-Approaches)
   * [Free Monads](#Free-Monads)
-  * [Final Tagless / mtl](#Final-Tagless-mtl)
+  * [Final Tagless / mtl](#Final-Tagless--mtl)
   * [Effect Systems](#Effect-Systems)
 * [Design Principles](#Design-Principles)
 * [Design Patterns](#Design-Patterns)
