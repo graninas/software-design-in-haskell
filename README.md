@@ -241,23 +241,22 @@ This section is aimed to show that learning and using Haskell is not as horrible
 
 ### Books
 
-- Get Programming with Haskell, Will Kurt
-  https://www.manning.com/books/get-programming-with-haskell
+- [Get Programming with Haskell](https://www.manning.com/books/get-programming-with-haskell) Will Kurt
 
-- Haskell in Depth. Vitaly Bragilevsky
-  https://www.manning.com/books/haskell-in-depth
+- [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) Vitaly Bragilevsky
 
-- What I Wish I Knew When Learning Haskell. Stephen Diehl
-  http://dev.stephendiehl.com/hask/
+- [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) Stephen Diehl
 
-- Haskell from the Very Beginning, John Whitington
-  https://www.haskellfromtheverybeginning.com/
+- [Haskell from the Very Beginning](https://www.haskellfromtheverybeginning.com/) John Whitington
 
-- Learn You a Haskell for Great Good!, Miran Lipovača
-  http://learnyouahaskell.com/
+- [Learn You a Haskell for Great Good!]( http://learnyouahaskell.com/) Miran Lipovača
 
-- Programming in Haskell, Graham Hutton
-  https://www.cs.nott.ac.uk/~pszgmh/pih.html
+- [Programming in Haskell](https://www.cs.nott.ac.uk/~pszgmh/pih.html) Graham Hutton
 
-- Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming, Simon Marlow
-  http://shop.oreilly.com/product/0636920026365.do
+- [Practical Haskell. A Real World Guide to Programming](https://www.apress.com/gp/book/9781484244791) Serrano, Alejandro
+
+- [Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming](http://shop.oreilly.com/product/0636920026365.do) Simon Marlow
+
+- [Real World Haskell](http://book.realworldhaskell.org/) Bryan O'Sullivan, Don Stewart, John Goerzen
+
+- [Functional Design and Architecture](https://graninas.com/functional-design-and-architecture-book/) Alexander Granin
