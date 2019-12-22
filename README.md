@@ -21,7 +21,14 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 # Application Architectures
 
-### 3 Layered Cake
+- 3 Layered Cake
+
+
+- Hexagonal Architecture and Free Monad: Two related design patterns?
+  https://www.pinterest.ru/pin/791929915696726474/#amp
+  NOTE: TODO: read and assess
+
+
 
 # Design Patterns
 
@@ -37,6 +44,18 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 - Why free monads matter, Gabriel Gonzalez
   http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html
+
+- Free monads in 7 easy steps
+  https://joa.sh/posts/2015-09-13-free-monad-steps.html
+  
+- Strict typing fun example — Free Monads in Haskell
+  https://www.endpoint.com/blog/2016/03/11/strict-typing-fun-example-free-monads
+  
+- Free Monads: from the basics to the implementation of composable and effectful stream processing
+  https://deque.blog/2017/11/13/free-monads-from-basics-up-to-implementing-composable-and-effectful-stream-processing/
+
+- What does Free buy us? Matt Parsons
+  https://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html
 
 - Combining free monads in Haskell, Mark Seemann
   https://blog.ploeh.dk/2017/07/24/combining-free-monads-in-haskell/
