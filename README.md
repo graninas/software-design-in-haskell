@@ -6,43 +6,38 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 # Books on Software Architecture in Haskell
 
-- [Functional Design and Architecture](https://graninas.com/functional-design-and-architecture-book/). Alexander Granin
+- [Functional Design and Architecture](https://graninas.com/functional-design-and-architecture-book/) Alexander Granin
   
-- [Practical Haskell. A Real World Guide to Programming](https://www.apress.com/gp/book/9781484244791). Serrano, Alejandro
+- [Practical Haskell. A Real World Guide to Programming](https://www.apress.com/gp/book/9781484244791) Serrano, Alejandro
+
   TODO: read and assess
 
-- [Real World Haskell](http://book.realworldhaskell.org/). Bryan O'Sullivan, Don Stewart, John Goerzen
+- [Real World Haskell](http://book.realworldhaskell.org/) Bryan O'Sullivan, Don Stewart, John Goerzen
 
 
 # Application Architectures
 
-- [Three Layer Haskell Cake](https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html). Matt Parsons
+- [Three Layer Haskell Cake](https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html) Matt Parsons
 
-- A Modern Architecture for FP, John A De Goes
-  http://degoes.net/articles/modern-fp
+- [A Modern Architecture for FP](http://degoes.net/articles/modern-fp) John A De Goes
 
-- (Talk) Hierarchical Free Monads and Software Design in Functional Programming, Alexander Granin, FunctionalConf 2019, Bangalore, India
-  Talk https://youtu.be/3GKQ4ni2pS0
-  Slides
+- _TODO: Hierarchical Free Monads Architecture. Alexander Granin_
 
-- Hexagonal Architecture and Free Monad: Two related design patterns?
-  https://www.pinterest.ru/pin/791929915696726474/#amp
+- [Hexagonal Architecture and Free Monad: Two related design patterns?](https://www.pinterest.ru/pin/791929915696726474/#amp)
+
   NOTE: TODO: read and assess
   
-- Anatomy of a Haskell-based Application
-  https://abailly.github.io/posts/cm-arch-design.html
+- [Anatomy of a Haskell-based Application](https://abailly.github.io/posts/cm-arch-design.html)
+  
   NOTE: TODO: read and assess
   
-- Architecture of a Real World Haskell Application
-  https://www.onikudaki.net/blog/archives/6
+- [Architecture of a Real World Haskell Application](https://www.onikudaki.net/blog/archives/6)
 
-- A Dead-Simple Web Stack In Haskell. William Yao
-  https://williamyaoh.com/posts/2019-11-16-a-dead-simple-web-stack.html
-  https://gitlab.com/williamyaoh/haskell-web-stack
+- [A Dead-Simple Web Stack In Haskell](https://williamyaoh.com/posts/2019-11-16-a-dead-simple-web-stack.html) William Yao
+  
+  [Showcase project](https://gitlab.com/williamyaoh/haskell-web-stack)
 
-- Large-scale design in Haskell?
-  https://stackoverflow.com/questions/3077866/large-scale-design-in-haskell
-
+- [Large-scale design in Haskell?](https://stackoverflow.com/questions/3077866/large-scale-design-in-haskell) (SO question)
   
 # Design Principles
 
@@ -50,27 +45,21 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 ### Free Monads
 
-- Why free monads matter, Gabriel Gonzalez
-  http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html
+- [Why free monads matter](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html) Gabriel Gonzalez
 
-- Free monads in 7 easy steps
-  https://joa.sh/posts/2015-09-13-free-monad-steps.html
+- [Free monads in 7 easy steps](https://joa.sh/posts/2015-09-13-free-monad-steps.html)
   
-- A Modern Architecture for FP, John A De Goes
-  http://degoes.net/articles/modern-fp
-  
-- Automatic White-Box Testing with Free Monads. Alexander Granin
-  https://github.com/graninas/automatic-whitebox-testing-showcase
-  
-- Building network actors with Node Framework. Alexander Granin
-  https://gist.github.com/graninas/9beb8df5d88dda5fa21c47ce9bcb0e16
-  
-- (Talk) Hierarchical Free Monads and Software Design in Functional Programming, Alexander Granin, FunctionalConf 2019, Bangalore, India
-  Talk https://youtu.be/3GKQ4ni2pS0
+- [A Modern Architecture for FP](http://degoes.net/articles/modern-fp) John A De Goes
+
+- [Building network actors with Node Framework](https://gist.github.com/graninas/9beb8df5d88dda5fa21c47ce9bcb0e16) Alexander Granin
+
+- (Article, showcase) [Automatic White-Box Testing with Free Monads](https://github.com/graninas/automatic-whitebox-testing-showcase) Alexander Granin
+
+- (Talk) [Hierarchical Free Monads and Software Design in Functional Programming](https://youtu.be/3GKQ4ni2pS0) Alexander Granin, FunctionalConf 2019, Bangalore, India
+
   Slides
   
-- Strict typing fun example — Free Monads in Haskell
-  https://www.endpoint.com/blog/2016/03/11/strict-typing-fun-example-free-monads
+- [Strict typing fun example — Free Monads in Haskell](https://www.endpoint.com/blog/2016/03/11/strict-typing-fun-example-free-monads)
   
 - Free Monads: from the basics to the implementation of composable and effectful stream processing
   https://deque.blog/2017/11/13/free-monads-from-basics-up-to-implementing-composable-and-effectful-stream-processing/
