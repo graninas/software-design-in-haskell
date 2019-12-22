@@ -79,7 +79,7 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
   Slides
 
 
-### Final Tagless
+### Final Tagless / mtl
 
 - Tagless Final Encoding in Haskell, Juan Pablo Royo
   https://jproyo.github.io/posts/2019-03-17-tagless-final-haskell.html
