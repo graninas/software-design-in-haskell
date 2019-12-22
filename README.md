@@ -158,11 +158,7 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 # Code Orgranization Samples
 
-# Haskell in Production. Success Stories, Experience Reports and Phylosophy
-
-- Boring Haskell Manifesto. Michael Snoyman
-  https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto
-  
+# Haskell in Production. Success Stories, Experience Reports
 
 - Haskell in Production
   TODO: read and assess
@@ -170,6 +166,14 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
     http://felixmulder.com/writing/2019/10/05/Haskell-in-Production.html
   - Designing Testable Components
     http://felixmulder.com/writing/2019/10/05/Designing-testable-components.html
+
+# Phylosophy
+
+- Boring Haskell Manifesto. Michael Snoyman
+  https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto
+
+- The Haskell Pyramid
+  https://patrickmn.com/software/the-haskell-pyramid/
 
 # Haskell Learn
 ### Books
