@@ -9,11 +9,9 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - Functional Design and Architecture, Alexander Granin
   https://graninas.com/functional-design-and-architecture-book/
 
-- Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming, Simon Marlow
-  http://shop.oreilly.com/product/0636920026365.do
-
 - Practical Haskell. A Real World Guide to Programming, Serrano, Alejandro
   https://www.apress.com/gp/book/9781484244791
+  TODO: read and assess
 
 - Real World Haskell, Bryan O'Sullivan, Don Stewart, and John Goerzen
   http://book.realworldhaskell.org/
@@ -106,10 +104,14 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - Tagless Final Encoding of a Test Language,
   https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html
 
-### ReaderT pattern
+### ReaderT Pattern
 
 - The ReaderT design pattern or tagless final? Magnus Therning
   https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html
+
+### Service Handle Pattern
+
+
 
 
 ### Effect Systems
@@ -127,7 +129,11 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
   Talk (Rus) https://youtu.be/u1GGqDQyGfc
   Slides (Eng)
 
+# Testing
+
 # Frameworks
+
+# Code Orgranization Samples
 
 # Haskell in Production
 
@@ -143,7 +149,10 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - Get Programming with Haskell, Will Kurt
   https://www.manning.com/books/get-programming-with-haskell
 
-- WHAT I WISH I KNEW WHEN LEARNING HASKELL. Stephen Diehl (@smdiehl)
+- Haskell in Depth. Vitaly Bragilevsky
+  https://www.manning.com/books/haskell-in-depth
+
+- What I Wish I Knew When Learning Haskell. Stephen Diehl
   http://dev.stephendiehl.com/hask/
 
 - Haskell from the Very Beginning, John Whitington
@@ -154,6 +163,9 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 - Programming in Haskell, Graham Hutton
   https://www.cs.nott.ac.uk/~pszgmh/pih.html
+
+- Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming, Simon Marlow
+  http://shop.oreilly.com/product/0636920026365.do
 
 
 # Talks
