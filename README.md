@@ -152,6 +152,21 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - Lambda the Ultimate Pattern Factory
   https://github.com/thma/LtuPatternFactory
 
+# Best Practices & Guidelines
+
+- Haskell practices
+  https://github.com/freckle/guides/blob/master/haskell-best-practices.md
+  TODO: read and assess
+
+- Programming guidelines
+  https://wiki.haskell.org/Programming_guidelines
+
+- Kowainik's Haskell Style Guide
+  https://kowainik.github.io/posts/2019-02-06-style-guide
+
+- Tweag.IO's Haskell Style Guide
+  https://github.com/tweag/guides/blob/master/style/Haskell.md
+
 # Comparison of Approaches
 
 - Which Type-Safe Database Library Should You Use? William Yao
