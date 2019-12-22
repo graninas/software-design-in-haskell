@@ -231,9 +231,14 @@ TODO: Error handling
 
   TODO: read and extract info
 
-# Haskell Learning Path Takeaways
+# Haskell Ecosystem and Accessibility
 
 This section is aimed to show that learning and using Haskell is not as horrible as some folks are trying to claim.
+
+### Haskell Ecosystem
+
+- [Haskell Ecosystem Survey](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md) Gabriel Gonzalez
+
 
 ### Books
 
