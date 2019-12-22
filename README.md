@@ -39,6 +39,9 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
   https://abailly.github.io/posts/cm-arch-design.html
   NOTE: TODO: read and assess
   
+- Architecture of a Real World Haskell Application
+  https://www.onikudaki.net/blog/archives/6
+  
 - Large-scale design in Haskell?
   https://stackoverflow.com/questions/3077866/large-scale-design-in-haskell
   
@@ -111,7 +114,7 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 ### Effect Systems
 
-### Comarison of Approaches
+### Comparison of Approaches
 
 - Monad transformers, free monads, mtl, laws and a new approach
   https://ocharles.org.uk/posts/2016-01-26-transformers-free-monads-mtl-laws.html
@@ -124,6 +127,7 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
   Talk (Rus) https://youtu.be/u1GGqDQyGfc
   Slides (Eng)
 
+# Frameworks
 
 # Haskell in Production
 
