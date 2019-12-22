@@ -219,6 +219,12 @@ TODO: Error handling
 
 # Haskell in Production. Success Stories, Experience Reports
 
+- [The Joy and Agony of Haskell in Production](http://www.stephendiehl.com/posts/production.html) Stephen Diehl
+
+- (Talk) [Haskell is Not For Production and Other Tales](https://m.youtube.com/watch?v=mlTO510zO78) Katie Miller
+
+- (Talk) [Production Haskell](https://m.youtube.com/watch?v=AZQLkkDXy68) Reid Draper
+
 - Haskell in Production
   TODO: read and assess
   - [Haskell in Production](http://felixmulder.com/writing/2019/10/05/Haskell-in-Production.html)
