@@ -16,9 +16,9 @@ A structured set of materials on how to build real-world applications in Haskell
   * [Service Handle Pattern](#Service-Handle-Pattern)
   * [Other Patterns](#Other-Patterns)
   * [OOP Design Patterns vs FP Design Patterns](#OOP-Design-Patterns-vs-FP-Design-Patterns)
+* [Comparison of Approaches](#Comparison-of-Approaches)
 * [Design Principles](#Design-Principles)
 * [Methodologies and Phylosophy](#Methodologies-and-phylosophy)
-* [Comparison of Approaches](#Comparison-of-Approaches)
 * [Best Practices & Guidelines](#Best-Practices--Guidelines)
 * [Testing](#Testing)
 * [Showcase Projects & Code Orgranization Samples](#Showcase-Projects--Code-Orgranization-Samples)
@@ -150,23 +150,6 @@ A structured set of materials on how to build real-world applications in Haskell
 
 - [Lambda the Ultimate Pattern Factory](https://github.com/thma/LtuPatternFactory)
 
-# Phylosophy
-
-- [Boring Haskell Manifesto](https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto) Michael Snoyman
-  
-  [Reddit discussion](https://www.reddit.com/r/haskell/comments/dzx15d/boring_haskell_manifesto_by_michael_snoyman/)
-
-- [The Haskell Pyramid](https://patrickmn.com/software/the-haskell-pyramid/)
-
-
-# Design Principles
-
-- Rule of Least Power
-- SOLID
-- KISS
-- YAGNI
-- DRY
-
 # Comparison of Approaches
 
 - [Which Type-Safe Database Library Should You Use?](https://williamyaoh.com/posts/2019-12-14-typesafe-db-libraries.html) William Yao
@@ -186,6 +169,23 @@ A structured set of materials on how to build real-world applications in Haskell
   TODO: Comparison of what?
 
 TODO: Comparison table for design approaches, patterns and architectures
+
+# Phylosophy
+
+- [Boring Haskell Manifesto](https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto) Michael Snoyman
+  
+  [Reddit discussion](https://www.reddit.com/r/haskell/comments/dzx15d/boring_haskell_manifesto_by_michael_snoyman/)
+
+- [The Haskell Pyramid](https://patrickmn.com/software/the-haskell-pyramid/)
+
+
+# Design Principles
+
+- Rule of Least Power
+- SOLID
+- KISS
+- YAGNI
+- DRY
 
 # Best Practices & Guidelines
 
