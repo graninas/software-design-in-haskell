@@ -35,6 +35,12 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 ### Free Monads
 
+- Why free monads matter, Gabriel Gonzalez
+  http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html
+
+- Combining free monads in Haskell, Mark Seemann
+  https://blog.ploeh.dk/2017/07/24/combining-free-monads-in-haskell/
+  Note: Unnecessary type level machinery to combine Free monads, functors & interpreters
 
 - (Talk) Hierarchical Free Monads and Software Design in Functional Programming, Alexander Granin, FunctionalConf 2019, Bangalore, India
   Talk https://youtu.be/3GKQ4ni2pS0
