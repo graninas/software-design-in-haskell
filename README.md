@@ -20,14 +20,15 @@ A structured set of materials on how to build real-world applications in Haskell
   * [OOP Design Patterns vs FP Design Patterns](#OOP-Design-Patterns-vs-FP-Design-Patterns)
 * [Methodologies and Phylosophy](#Methodologies-and-phylosophy)
 * [Comparison of Approaches](#Comparison-of-Approaches)
-* [Best Practices & Guidelines](#Best-Practices-Guidelines)
+* [Best Practices & Guidelines](#Best-Practices--Guidelines)
 * [Testing](#Testing)
-* [Showcase Projects & Code Orgranization Samples](#Showcase-Projects-Code-Orgranization-Samples)
-* [Haskell in Production. Success Stories, Experience Reports](#Haskell-in-Production-Success-Stories-Experience-Reports)
-* Talks
-* Haskell Ecosystem and Accessibility
-  * Haskell Ecosystem
-  * Haskell Learn: Books
+* [Showcase Projects & Code Orgranization Samples](#Showcase-Projects--Code-Orgranization-Samples)
+* [Haskell in Production. Success Stories, Experience Reports](#Haskell-in-Production--Success-Stories--Experience-Reports)
+* [Talks](#Talks)
+* [Haskell Ecosystem and Accessibility](#Haskell-Ecosystem-and-Accessibility)
+  * [Haskell Ecosystem](#Haskell-Ecosystem)
+  * [Haskell Community](#Haskell-Community)
+  * [Haskell Learn: Books](#Haskell-Learn--Books)
 
 --------
 
