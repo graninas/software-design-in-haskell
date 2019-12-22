@@ -8,16 +8,15 @@ A structured set of materials on how to build real-world applications in Haskell
 
 * [Books on Software Architecture in Haskell](#Books-on-Software-Architecture-in-Haskell)
 * [Application Architectures](#Application-Architectures)
-* [Design Approaches](#Design-Approaches)
+* [Design Approaches and Design Patterns](#Design-Approaches-and-Design-Patterns)
   * [Free Monads](#Free-Monads)
   * [Final Tagless / mtl](#Final-Tagless--mtl)
   * [Effect Systems](#Effect-Systems)
-* [Design Principles](#Design-Principles)
-* [Design Patterns](#Design-Patterns)
   * [ReaderT Pattern](ReaderT-Pattern)
   * [Service Handle Pattern](#Service-Handle-Pattern)
   * [Other Patterns](#Other-Patterns)
   * [OOP Design Patterns vs FP Design Patterns](#OOP-Design-Patterns-vs-FP-Design-Patterns)
+* [Design Principles](#Design-Principles)
 * [Methodologies and Phylosophy](#Methodologies-and-phylosophy)
 * [Comparison of Approaches](#Comparison-of-Approaches)
 * [Best Practices & Guidelines](#Best-Practices--Guidelines)
@@ -67,7 +66,7 @@ A structured set of materials on how to build real-world applications in Haskell
 
 - [Large-scale design in Haskell?](https://stackoverflow.com/questions/3077866/large-scale-design-in-haskell) (SO question)
 
-# Design Approaches
+# Design Approaches and Design Patterns
 
 ### Free Monads
 
@@ -112,10 +111,6 @@ A structured set of materials on how to build real-world applications in Haskell
 - [Tagless Final Encoding of a Test Language](https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html)
 
 ### Effect Systems
-  
-# Design Principles
-
-# Design Patterns
 
 ### ReaderT Pattern
 
@@ -163,6 +158,11 @@ A structured set of materials on how to build real-world applications in Haskell
 
 - [The Haskell Pyramid](https://patrickmn.com/software/the-haskell-pyramid/)
 
+
+# Design Principles
+
+- Rule of Least Power
+- SOLID
 
 # Comparison of Approaches
 
