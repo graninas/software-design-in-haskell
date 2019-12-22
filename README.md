@@ -152,21 +152,6 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - Lambda the Ultimate Pattern Factory
   https://github.com/thma/LtuPatternFactory
 
-# Best Practices & Guidelines
-
-- Haskell practices
-  https://github.com/freckle/guides/blob/master/haskell-best-practices.md
-  TODO: read and assess
-
-- Programming guidelines
-  https://wiki.haskell.org/Programming_guidelines
-
-- Kowainik's Haskell Style Guide
-  https://kowainik.github.io/posts/2019-02-06-style-guide
-
-- Tweag.IO's Haskell Style Guide
-  https://github.com/tweag/guides/blob/master/style/Haskell.md
-
 # Comparison of Approaches
 
 - Which Type-Safe Database Library Should You Use? William Yao
@@ -189,10 +174,28 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 TODO: Comparison table for design approaches, patterns and architectures
 
-# Best Practices
+# Best Practices & Guidelines
 
 - Figuring Out How To Use Beam For DB Migrations. Willam Yao
   https://williamyaoh.com/posts/2019-09-27-figuring-out-beam-migrations.html
+
+- Haskell practices
+  https://github.com/freckle/guides/blob/master/haskell-best-practices.md
+  TODO: read and assess
+
+- Programming guidelines
+  https://wiki.haskell.org/Programming_guidelines
+
+- Kowainik's Haskell Style Guide
+  https://kowainik.github.io/posts/2019-02-06-style-guide
+
+- Tweag.IO's Haskell Style Guide
+  https://github.com/tweag/guides/blob/master/style/Haskell.md
+
+- Tibbe's Haskell Style Guide
+  https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md
+
+TODO: Style Guides comparison table
 
 TODO: Error handling
 
