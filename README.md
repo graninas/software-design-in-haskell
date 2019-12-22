@@ -231,6 +231,15 @@ TODO: Error handling
 
   - [Designing Testable Components](http://felixmulder.com/writing/2019/10/05/Designing-testable-components.html)
 
+- [Haskell in Production](https://blog.hasura.io/from-zero-to-hipster-haskell-in-production-97ea99d90c3b/) Hasura.IO
+
+- (Talk)[5 Years of Haskell in Production](https://youtu.be/hZgW4mT1PkE) Alexander Thiemann
+
+- [Retrospective: Haskell in Production](https://www.infoq.com/news/2016/08/haskell-production-retrospective/)
+
+- [My “Haskell In Production” Story](https://medium.com/@djoyner/my-haskell-in-production-story-e48897ed54c) David Joyner
+
+TODO: table with concerns comparison
 
 # Talks
 
