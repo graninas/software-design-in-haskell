@@ -6,24 +6,24 @@ A structured set of materials on how to build real-world applications in Haskell
 
 ### Table of Contents
 
-* Books on Software Architecture in Haskell
-* Application Architectures
-* Design Approaches
-  * Free Monads
-  * Final Tagless / mtl
-  * Effect Systems
-* Design Principles
-* Design Patterns
-  * ReaderT Pattern
-  * Service Handle Pattern
-  * Other Patterns
-  * OOP Design Patterns vs FP Design Patterns
-* Comparison of Approaches
-* Best Practices & Guidelines
-* Testing
-* Showcase Projects & Code Orgranization Samples
-* Haskell in Production. Success Stories, Experience Reports
-* Phylosophy
+* [Books on Software Architecture in Haskell](#Books-on-Software-Architecture-in-Haskell)
+* [Application Architectures](#Application-Architectures)
+* [Design Approaches](#Design-Approaches)
+  * [Free Monads](#Free-Monads)
+  * [Final Tagless / mtl](#Final-Tagless-mtl)
+  * [Effect Systems](#Effect-Systems)
+* [Design Principles](#Design-Principles)
+* [Design Patterns](#Design-Patterns)
+  * [ReaderT Pattern](ReaderT-Pattern)
+  * [Service Handle Pattern](#Service-Handle-Pattern)
+  * [Other Patterns](#Other-Patterns)
+  * [OOP Design Patterns vs FP Design Patterns](#OOP-Design-Patterns-vs-FP-Design-Patterns)
+* [Methodologies and Phylosophy](#Methodologies-and-phylosophy)
+* [Comparison of Approaches](#Comparison-of-Approaches)
+* [Best Practices & Guidelines](#Best-Practices-Guidelines)
+* [Testing](#Testing)
+* [Showcase Projects & Code Orgranization Samples](#Showcase-Projects-Code-Orgranization-Samples)
+* [Haskell in Production. Success Stories, Experience Reports](#Haskell-in-Production-Success-Stories-Experience-Reports)
 * Talks
 * Haskell Ecosystem and Accessibility
   * Haskell Ecosystem
@@ -154,6 +154,15 @@ A structured set of materials on how to build real-world applications in Haskell
 
 - [Lambda the Ultimate Pattern Factory](https://github.com/thma/LtuPatternFactory)
 
+# Phylosophy
+
+- [Boring Haskell Manifesto](https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto) Michael Snoyman
+  
+  [Reddit discussion](https://www.reddit.com/r/haskell/comments/dzx15d/boring_haskell_manifesto_by_michael_snoyman/)
+
+- [The Haskell Pyramid](https://patrickmn.com/software/the-haskell-pyramid/)
+
+
 # Comparison of Approaches
 
 - [Which Type-Safe Database Library Should You Use?](https://williamyaoh.com/posts/2019-12-14-typesafe-db-libraries.html) William Yao
@@ -212,14 +221,6 @@ TODO: Error handling
 
   - [Designing Testable Components](http://felixmulder.com/writing/2019/10/05/Designing-testable-components.html)
 
-# Phylosophy
-
-- [Boring Haskell Manifesto](https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto) Michael Snoyman
-  
-  [Reddit discussion](https://www.reddit.com/r/haskell/comments/dzx15d/boring_haskell_manifesto_by_michael_snoyman/)
-
-- [The Haskell Pyramid](https://patrickmn.com/software/the-haskell-pyramid/)
-  
 
 # Talks
 
@@ -239,6 +240,9 @@ This section is aimed to show that learning and using Haskell is not as horrible
 
 - [Haskell Ecosystem Survey](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md) Gabriel Gonzalez
 
+### Haskell Community
+
+- [The Haskell Pyramid](https://patrickmn.com/software/the-haskell-pyramid/)
 
 ### Haskell Learn: Books
 
