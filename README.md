@@ -47,13 +47,28 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - Tagless Final Encoding of a Test Language,
   https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html
 
+### ReaderT pattern
+
+- The ReaderT design pattern or tagless final? Magnus Therning
+  https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html
+
+
+# Haskell in Production
+
+- Haskell in Production
+  - Haskell in Production
+    http://felixmulder.com/writing/2019/10/05/Haskell-in-Production.html
+  - Designing Testable Components
+    http://felixmulder.com/writing/2019/10/05/Designing-testable-components.html
+
 # Haskell Learn
 ### Books
 
-
-
 - Get Programming with Haskell, Will Kurt
   https://www.manning.com/books/get-programming-with-haskell
+
+- WHAT I WISH I KNEW WHEN LEARNING HASKELL. Stephen Diehl (@smdiehl)
+  http://dev.stephendiehl.com/hask/
 
 - Haskell from the Very Beginning, John Whitington
   https://www.haskellfromtheverybeginning.com/
