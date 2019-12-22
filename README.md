@@ -38,8 +38,6 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
   [Showcase project](https://gitlab.com/williamyaoh/haskell-web-stack)
 
 - [Large-scale design in Haskell?](https://stackoverflow.com/questions/3077866/large-scale-design-in-haskell) (SO question)
-  
-# Design Principles
 
 # Design Approaches
 
@@ -86,6 +84,8 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - [Tagless Final Encoding of a Test Language](https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html)
 
 ### Effect Systems
+  
+# Design Principles
 
 # Design Patterns
 
@@ -191,28 +191,27 @@ TODO: Error handling
 
 - Haskell in Production
   TODO: read and assess
-  - Haskell in Production
-    http://felixmulder.com/writing/2019/10/05/Haskell-in-Production.html
-  - Designing Testable Components
-    http://felixmulder.com/writing/2019/10/05/Designing-testable-components.html
+  - [Haskell in Production](http://felixmulder.com/writing/2019/10/05/Haskell-in-Production.html)
+
+  - [Designing Testable Components](http://felixmulder.com/writing/2019/10/05/Designing-testable-components.html)
 
 # Phylosophy
 
-- Boring Haskell Manifesto. Michael Snoyman
-  https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto
-  Reddit discussion: https://www.reddit.com/r/haskell/comments/dzx15d/boring_haskell_manifesto_by_michael_snoyman/
+- [Boring Haskell Manifesto](https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto) Michael Snoyman
+  
+  [Reddit discussion](https://www.reddit.com/r/haskell/comments/dzx15d/boring_haskell_manifesto_by_michael_snoyman/)
 
-- The Haskell Pyramid
-  https://patrickmn.com/software/the-haskell-pyramid/
+- [The Haskell Pyramid](https://patrickmn.com/software/the-haskell-pyramid/)
+  
 
 # Talks
 
-- Hierarchical Free Monads and Software Design in Functional Programming, Alexander Granin, FunctionalConf 2019, Bangalore, India
-  Talk https://youtu.be/3GKQ4ni2pS0
-  Slides
+- [Hierarchical Free Monads and Software Design in Functional Programming](https://youtu.be/3GKQ4ni2pS0) Alexander Granin, FunctionalConf 2019, Bangalore, India
 
-- Final Tagless vs Free Monad, Alexander Granin, FPure 2019, Kazan
-  Talk (Rus) https://youtu.be/u1GGqDQyGfc
+  Slides (Eng)
+
+- [Final Tagless vs Free Monad (Rus)](https://youtu.be/u1GGqDQyGfc) Alexander Granin, FPure 2019, Kazan
+
   Slides (Eng)
 
 # Misc
@@ -222,20 +221,17 @@ TODO: Error handling
 
 ### Read, Assess & Classify
 
-- Haskell Design Patterns: Service-Oriented Programming
-  https://github.com/jaspervdj/jaspervdj/blob/master/drafts/2015-01-30-haskell-design-patterns-services.markdown
+- [Haskell Design Patterns: Service-Oriented Programming](https://github.com/jaspervdj/jaspervdj/blob/master/drafts/2015-01-30-haskell-design-patterns-services.markdown)
+  
+- [How do you design programs in Haskell or other functional programming languages?](https://softwareengineering.stackexchange.com/questions/72557/how-do-you-design-programs-in-haskell-or-other-functional-programming-languages)
 
-- How do you design programs in Haskell or other functional programming languages?
-  https://softwareengineering.stackexchange.com/questions/72557/how-do-you-design-programs-in-haskell-or-other-functional-programming-languages
+- [Where are all the functional programming design patterns?](https://softwareengineering.stackexchange.com/questions/89273/where-are-all-the-functional-programming-design-patterns)
 
-- Where are all the functional programming design patterns?
-  https://softwareengineering.stackexchange.com/questions/89273/where-are-all-the-functional-programming-design-patterns
   TODO: read and extract info
 
+# Haskell Learning Path Takeaways
 
-# Haskell Learn
-
-TODO: Is this section needed?
+This section is aimed to show that learning and using Haskell is not as horrible as some folks are trying to claim.
 
 ### Books
 
