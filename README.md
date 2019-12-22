@@ -30,9 +30,10 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 # Design Approaches
 
+
+### Free Monads
+
 ### Final Tagless
-
-
 
 - Tagless Final Encoding in Haskell, Juan Pablo Royo
   https://jproyo.github.io/posts/2019-03-17-tagless-final-haskell.html
@@ -52,6 +53,15 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - The ReaderT design pattern or tagless final? Magnus Therning
   https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html
 
+
+### Comarison of Approaches
+
+- Monad transformers, free monads, mtl, laws and a new approach
+  https://ocharles.org.uk/posts/2016-01-26-transformers-free-monads-mtl-laws.html
+
+- Backpack for initial and final encodings
+  https://qfpl.io/posts/backpack-for-initial-and-final-encodings/
+  Note: benchmarks
 
 # Haskell in Production
 
