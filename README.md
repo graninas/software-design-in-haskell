@@ -4,7 +4,7 @@
 Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell.
 
 
-# Books
+# Books on Software Architecture in Haskell
 
 - Functional Design and Architecture, Alexander Granin
   https://graninas.com/functional-design-and-architecture-book/
@@ -23,6 +23,8 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 - 3 Layered Cake
 
+- A Modern Architecture for FP, John A De Goes
+  http://degoes.net/articles/modern-fp
 
 - Hexagonal Architecture and Free Monad: Two related design patterns?
   https://www.pinterest.ru/pin/791929915696726474/#amp
@@ -39,7 +41,6 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 # Design Approaches
 
-
 ### Free Monads
 
 - Why free monads matter, Gabriel Gonzalez
@@ -47,6 +48,15 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 - Free monads in 7 easy steps
   https://joa.sh/posts/2015-09-13-free-monad-steps.html
+  
+- A Modern Architecture for FP, John A De Goes
+  http://degoes.net/articles/modern-fp
+  
+- Automatic White-Box Testing with Free Monads. Alexander Granin
+  https://github.com/graninas/automatic-whitebox-testing-showcase
+  
+- Building network actors with Node Framework. Alexander Granin
+  https://gist.github.com/graninas/9beb8df5d88dda5fa21c47ce9bcb0e16
   
 - Strict typing fun example — Free Monads in Haskell
   https://www.endpoint.com/blog/2016/03/11/strict-typing-fun-example-free-monads
@@ -56,10 +66,13 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 - What does Free buy us? Matt Parsons
   https://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html
+  
+- What is the “Free Monad + Interpreter” pattern?
+  https://softwareengineering.stackexchange.com/questions/242795/what-is-the-free-monad-interpreter-pattern#
 
 - Combining free monads in Haskell, Mark Seemann
   https://blog.ploeh.dk/2017/07/24/combining-free-monads-in-haskell/
-  Note: Unnecessary type level machinery to combine Free monads, functors & interpreters
+  TODO: assess. Note: Unnecessary type level machinery to combine Free monads, functors & interpreters
 
 - (Talk) Hierarchical Free Monads and Software Design in Functional Programming, Alexander Granin, FunctionalConf 2019, Bangalore, India
   Talk https://youtu.be/3GKQ4ni2pS0
