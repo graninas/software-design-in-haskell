@@ -12,7 +12,7 @@ A structured set of materials on how to build real-world applications in Haskell
   * [Free Monads](#Free-Monads)
   * [Final Tagless / mtl](#Final-Tagless--mtl)
   * [Effect Systems](#Effect-Systems)
-  * [ReaderT Pattern](ReaderT-Pattern)
+  * [ReaderT Pattern](#ReaderT-Pattern)
   * [Service Handle Pattern](#Service-Handle-Pattern)
   * [Other Patterns](#Other-Patterns)
   * [OOP Design Patterns vs FP Design Patterns](#OOP-Design-Patterns-vs-FP-Design-Patterns)
