@@ -1,8 +1,35 @@
-# WIP
+# Software Design and Architecture in Haskell
 
-# software-design-in-haskell
-Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell.
+A structured set of materials on how to build real-world applications in Haskell.
 
+-- 
+
+### Table of Contents
+
+* Books on Software Architecture in Haskell
+* Application Architectures
+* Design Approaches
+  * Free Monads
+  * Final Tagless / mtl
+  * Effect Systems
+* Design Principles
+* Design Patterns
+  * ReaderT Pattern
+  * Service Handle Pattern
+  * Other Patterns
+  * OOP Design Patterns vs FP Design Patterns
+* Comparison of Approaches
+* Best Practices & Guidelines
+* Testing
+* Showcase Projects & Code Orgranization Samples
+* Haskell in Production. Success Stories, Experience Reports
+* Phylosophy
+* Talks
+* Haskell Ecosystem and Accessibility
+  * Haskell Ecosystem
+  * Haskell Learn: Books
+
+--
 
 # Books on Software Architecture in Haskell
 
@@ -168,20 +195,6 @@ TODO: Error handling
 
 # Testing
 
-# Frameworks
-
-- Yesod
-
-- RIO
-
-- Node
-
-- Hydra
-
-- PureScript Presto
-
-- PureScript Presto.Backend
-
 # Showcase Projects & Code Orgranization Samples
 
 
@@ -213,23 +226,6 @@ TODO: Error handling
 
   Slides (Eng)
 
-# Misc
-
-- TODO: Table with Software Design discipline topic coverability
-- Boring Haskell substet voting
-- TODO: Learning Path (graph or table)
-- TODO: Haskell seniority levels
-
-### Read, Assess & Classify
-
-- [Haskell Design Patterns: Service-Oriented Programming](https://github.com/jaspervdj/jaspervdj/blob/master/drafts/2015-01-30-haskell-design-patterns-services.markdown)
-  
-- [How do you design programs in Haskell or other functional programming languages?](https://softwareengineering.stackexchange.com/questions/72557/how-do-you-design-programs-in-haskell-or-other-functional-programming-languages)
-
-- [Where are all the functional programming design patterns?](https://softwareengineering.stackexchange.com/questions/89273/where-are-all-the-functional-programming-design-patterns)
-
-  TODO: read and extract info
-
 # Haskell Ecosystem and Accessibility
 
 This section is aimed to show that learning and using Haskell is not as horrible as some folks are trying to claim.
@@ -239,7 +235,7 @@ This section is aimed to show that learning and using Haskell is not as horrible
 - [Haskell Ecosystem Survey](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md) Gabriel Gonzalez
 
 
-### Books
+### Haskell Learn: Books
 
 - [Get Programming with Haskell](https://www.manning.com/books/get-programming-with-haskell) Will Kurt
 
@@ -260,3 +256,21 @@ This section is aimed to show that learning and using Haskell is not as horrible
 - [Real World Haskell](http://book.realworldhaskell.org/) Bryan O'Sullivan, Don Stewart, John Goerzen
 
 - [Functional Design and Architecture](https://graninas.com/functional-design-and-architecture-book/) Alexander Granin
+
+
+# Misc
+
+- TODO: Table with Software Design discipline topic coverability
+- Boring Haskell substet voting
+- TODO: Learning Path (graph or table)
+- TODO: Haskell seniority levels
+
+### Read, Assess & Classify
+
+- [Haskell Design Patterns: Service-Oriented Programming](https://github.com/jaspervdj/jaspervdj/blob/master/drafts/2015-01-30-haskell-design-patterns-services.markdown)
+  
+- [How do you design programs in Haskell or other functional programming languages?](https://softwareengineering.stackexchange.com/questions/72557/how-do-you-design-programs-in-haskell-or-other-functional-programming-languages)
+
+- [Where are all the functional programming design patterns?](https://softwareengineering.stackexchange.com/questions/89273/where-are-all-the-functional-programming-design-patterns)
+
+  TODO: read and extract info
