@@ -61,33 +61,29 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
   
 - [Strict typing fun example — Free Monads in Haskell](https://www.endpoint.com/blog/2016/03/11/strict-typing-fun-example-free-monads)
   
-- Free Monads: from the basics to the implementation of composable and effectful stream processing
-  https://deque.blog/2017/11/13/free-monads-from-basics-up-to-implementing-composable-and-effectful-stream-processing/
+- [Free Monads: from the basics to the implementation of composable and effectful stream processing](https://deque.blog/2017/11/13/free-monads-from-basics-up-to-implementing-composable-and-effectful-stream-processing/) 
 
-- What does Free buy us? Matt Parsons
-  https://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html
+  TODO: read and assess
+
+- [What does Free buy us?](https://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html) Matt Parsons
   
-- What is the “Free Monad + Interpreter” pattern?
-  https://softwareengineering.stackexchange.com/questions/242795/what-is-the-free-monad-interpreter-pattern#
+- [What is the “Free Monad + Interpreter” pattern?](https://softwareengineering.stackexchange.com/questions/242795/what-is-the-free-monad-interpreter-pattern#)
 
-- Combining free monads in Haskell, Mark Seemann
-  https://blog.ploeh.dk/2017/07/24/combining-free-monads-in-haskell/
-  TODO: assess. Note: Unnecessary type level machinery to combine Free monads, functors & interpreters
+- [Combining free monads in Haskell](https://blog.ploeh.dk/2017/07/24/combining-free-monads-in-haskell/) Mark Seemann
+  
+  TODO: read and assess. Note: Unnecessary type level machinery to combine Free monads, functors & interpreters
 
 ### Final Tagless / mtl
 
-- Tagless Final Encoding in Haskell, Juan Pablo Royo
-  https://jproyo.github.io/posts/2019-03-17-tagless-final-haskell.html
+- [Tagless Final Encoding in Haskell](https://jproyo.github.io/posts/2019-03-17-tagless-final-haskell.html) Juan Pablo Royo
 
-- Introduction to Tagless Final, Vasiliy Kevroletin, Serokell
-  https://serokell.io/blog/tagless-final
+- [Introduction to Tagless Final](https://serokell.io/blog/tagless-final) Vasiliy Kevroletin, Serokell
+  
   Note: wrong statements about Free Monads
 
-- Reducing boilerplate in finally tagless style, Roman Cheplyaka
-  https://ro-che.info/articles/2016-02-03-finally-tagless-boilerplate
+- [Reducing boilerplate in finally tagless style](https://ro-che.info/articles/2016-02-03-finally-tagless-boilerplate) Roman Cheplyaka
 
-- Tagless Final Encoding of a Test Language,
-  https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html
+- [Tagless Final Encoding of a Test Language](https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html)
 
 ### Effect Systems
 
@@ -95,90 +91,77 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 ### ReaderT Pattern
 
-- The ReaderT Design Pattern. Michael Snoyman
-  https://www.fpcomplete.com/blog/2017/06/readert-design-pattern
+- [The ReaderT Design Pattern](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) Michael Snoyman
 
-- The ReaderT design pattern or tagless final? Magnus Therning
-  https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html
+- [The ReaderT design pattern or tagless final?](https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html) Magnus Therning
 
-- Capability: The ReaderT Pattern Without The Boilerplate
-  https://www.tweag.io/posts/2018-10-04-capability.html
+- [Capability: The ReaderT Pattern Without The Boilerplate](https://www.tweag.io/posts/2018-10-04-capability.html)
 
 ### Service Handle Pattern
 
-- The Service Pattern. Simon Meier
-  https://www.schoolofhaskell.com/user/meiersi/the-service-pattern
+- [The Service Pattern](https://www.schoolofhaskell.com/user/meiersi/the-service-pattern) Simon Meier
+
   TODO: read and assess
 
-- Haskell Design Patterns: The Handle Pattern. Jasper Van der Jeugt
-  https://jaspervdj.be/posts/2018-03-08-handle-pattern.html
+- [Haskell Design Patterns: The Handle Pattern](https://jaspervdj.be/posts/2018-03-08-handle-pattern.html) Jasper Van der Jeugt
 
 ### Other Patterns
 
-- (Book) Haskell Design Patterns. Ryan Lemmer
-  https://www.packtpub.com/application-development/haskell-design-patterns
-  https://www.oreilly.com/library/view/haskell-design-patterns/9781783988723/
+- (Book) [Haskell Design Patterns](https://www.oreilly.com/library/view/haskell-design-patterns/9781783988723/) Ryan Lemmer
+  
   TODO: read and assess
 
-- Enterprise Haskell Pattern: Lensed Reader. Michael Xavier
-  https://michaelxavier.net/posts/2016-04-03-Enterprise-Haskell-Pattern-Lensed-Reader.html
+- [Enterprise Haskell Pattern: Lensed Reader](https://michaelxavier.net/posts/2016-04-03-Enterprise-Haskell-Pattern-Lensed-Reader.html) Michael Xavier
+  
   TODO: read and assess
 
-- The Has Type Class Pattern. Jonathan Fischoff
-  https://hackernoon.com/the-has-type-class-pattern-ca12adab70ae
+- [The Has Type Class Pattern](https://hackernoon.com/the-has-type-class-pattern-ca12adab70ae) Jonathan Fischoff
+  
   TODO: read and assess
   
-- Type Class Patterns and Anti-patterns. Jonathan Fischoff
-  https://hackernoon.com/type-class-patterns-and-anti-patterns-efd045c5af66
+- [Type Class Patterns and Anti-patterns](https://hackernoon.com/type-class-patterns-and-anti-patterns-efd045c5af66) Jonathan Fischoff
+
   TODO: read and assess
 
 ### OOP Design Patterns vs FP Design Patterns
 
-- Lambda the Ultimate Pattern Factory
-  https://github.com/thma/LtuPatternFactory
+- [Lambda the Ultimate Pattern Factory](https://github.com/thma/LtuPatternFactory)
 
 # Comparison of Approaches
 
-- Which Type-Safe Database Library Should You Use? William Yao
-  https://williamyaoh.com/posts/2019-12-14-typesafe-db-libraries.html
+- [Which Type-Safe Database Library Should You Use?](https://williamyaoh.com/posts/2019-12-14-typesafe-db-libraries.html) William Yao
 
-- Monad transformers, free monads, mtl, laws and a new approach
-  https://ocharles.org.uk/posts/2016-01-26-transformers-free-monads-mtl-laws.html
+- (Talk, Rus) [Final Tagless vs Free Monad, Alexander Granin, FPure 2019, Kazan](https://youtu.be/u1GGqDQyGfc)
 
-- Backpack for initial and final encodings
-  https://qfpl.io/posts/backpack-for-initial-and-final-encodings/
-  Note: benchmarks
-
-- Capability: The ReaderT Pattern Without The Boilerplate
-  https://www.tweag.io/posts/2018-10-04-capability.html
-  TODO: Comparison of what?
-  
-- (Talk) Final Tagless vs Free Monad, Alexander Granin, FPure 2019, Kazan
-  Talk (Rus) https://youtu.be/u1GGqDQyGfc
   Slides (Eng)
+
+- [Monad transformers, free monads, mtl, laws and a new approach](https://ocharles.org.uk/posts/2016-01-26-transformers-free-monads-mtl-laws.html)
+
+- [Backpack for initial and final encodings](https://qfpl.io/posts/backpack-for-initial-and-final-encodings/)
+
+  Note: read and assess. There are benchmarks
+
+- [Capability: The ReaderT Pattern Without The Boilerplate](https://www.tweag.io/posts/2018-10-04-capability.html)
+
+  TODO: Comparison of what?
 
 TODO: Comparison table for design approaches, patterns and architectures
 
 # Best Practices & Guidelines
 
-- Figuring Out How To Use Beam For DB Migrations. Willam Yao
-  https://williamyaoh.com/posts/2019-09-27-figuring-out-beam-migrations.html
+- [Figuring Out How To Use Beam For DB Migrations](https://williamyaoh.com/posts/2019-09-27-figuring-out-beam-migrations.html) Willam Yao
 
-- Haskell practices
-  https://github.com/freckle/guides/blob/master/haskell-best-practices.md
+- [Haskell practices](https://github.com/freckle/guides/blob/master/haskell-best-practices.md)
+  
   TODO: read and assess
 
-- Programming guidelines
-  https://wiki.haskell.org/Programming_guidelines
+- [Programming guidelines](https://wiki.haskell.org/Programming_guidelines)
 
-- Kowainik's Haskell Style Guide
-  https://kowainik.github.io/posts/2019-02-06-style-guide
+- [Kowainik's Haskell Style Guide](https://kowainik.github.io/posts/2019-02-06-style-guide)
 
-- Tweag.IO's Haskell Style Guide
-  https://github.com/tweag/guides/blob/master/style/Haskell.md
+- [Tweag.IO's Haskell Style Guide](https://github.com/tweag/guides/blob/master/style/Haskell.md)
 
-- Tibbe's Haskell Style Guide
-  https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md
+- [Tibbe's Haskell Style Guide](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md)
 
 TODO: Style Guides comparison table
 
