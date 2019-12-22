@@ -2,7 +2,7 @@
 
 A structured set of materials on how to build real-world applications in Haskell.
 
--- 
+---------
 
 ### Table of Contents
 
@@ -29,7 +29,7 @@ A structured set of materials on how to build real-world applications in Haskell
   * Haskell Ecosystem
   * Haskell Learn: Books
 
---
+--------
 
 # Books on Software Architecture in Haskell
 
@@ -55,6 +55,7 @@ A structured set of materials on how to build real-world applications in Haskell
   NOTE: TODO: read and assess
   
 - [Anatomy of a Haskell-based Application](https://abailly.github.io/posts/cm-arch-design.html)
+
   NOTE: TODO: read and assess
   
 - [Architecture of a Real World Haskell Application](https://www.onikudaki.net/blog/archives/6)
@@ -179,6 +180,10 @@ TODO: Comparison table for design approaches, patterns and architectures
 
 - [Haskell practices](https://github.com/freckle/guides/blob/master/haskell-best-practices.md)
   
+  TODO: read and assess
+  
+- [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/) Lexi Lambda
+
   TODO: read and assess
 
 - [Programming guidelines](https://wiki.haskell.org/Programming_guidelines)
