@@ -171,6 +171,7 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 - Boring Haskell Manifesto. Michael Snoyman
   https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto
+  Reddit discussion: https://www.reddit.com/r/haskell/comments/dzx15d/boring_haskell_manifesto_by_michael_snoyman/
 
 - The Haskell Pyramid
   https://patrickmn.com/software/the-haskell-pyramid/
