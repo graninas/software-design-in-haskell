@@ -43,11 +43,6 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - Large-scale design in Haskell?
   https://stackoverflow.com/questions/3077866/large-scale-design-in-haskell
   
-# Design Patterns
-
-- Lambda the Ultimate Pattern Factory
-  https://github.com/thma/LtuPatternFactory
-
 # Design Principles
 
 # Design Approaches
@@ -104,9 +99,7 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - Tagless Final Encoding of a Test Language,
   https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html
 
-### ReaderT Pattern & Service Handle Pattern
-
-- The ReaderT Design Pattern
+### Design Patterns
 
 - The ReaderT Design Pattern. Michael Snoyman
   https://www.fpcomplete.com/blog/2017/06/readert-design-pattern
@@ -120,6 +113,23 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - Enterprise Haskell Pattern: Lensed Reader. Michael Xavier
   https://michaelxavier.net/posts/2016-04-03-Enterprise-Haskell-Pattern-Lensed-Reader.html
   TODO: read and assess
+
+- The Has Type Class Pattern. Jonathan Fischoff
+  https://hackernoon.com/the-has-type-class-pattern-ca12adab70ae
+  TODO: read and assess
+  
+- Type Class Patterns and Anti-patterns. Jonathan Fischoff
+  https://hackernoon.com/type-class-patterns-and-anti-patterns-efd045c5af66
+  TODO: read and assess
+  
+
+
+### OOP Design Patterns vs FP Design Patterns
+
+- Lambda the Ultimate Pattern Factory
+  https://github.com/thma/LtuPatternFactory
+
+
 
 ### Effect Systems
 
