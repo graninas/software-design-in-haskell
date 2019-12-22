@@ -39,9 +39,14 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
   
 - Architecture of a Real World Haskell Application
   https://www.onikudaki.net/blog/archives/6
-  
+
+- A Dead-Simple Web Stack In Haskell. William Yao
+  https://williamyaoh.com/posts/2019-11-16-a-dead-simple-web-stack.html
+  https://gitlab.com/williamyaoh/haskell-web-stack
+
 - Large-scale design in Haskell?
   https://stackoverflow.com/questions/3077866/large-scale-design-in-haskell
+
   
 # Design Principles
 
@@ -99,6 +104,8 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - Tagless Final Encoding of a Test Language,
   https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html
 
+### Effect Systems
+
 # Design Patterns
 
 ### ReaderT Pattern
@@ -139,17 +146,16 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - Type Class Patterns and Anti-patterns. Jonathan Fischoff
   https://hackernoon.com/type-class-patterns-and-anti-patterns-efd045c5af66
   TODO: read and assess
-  
 
 ### OOP Design Patterns vs FP Design Patterns
 
 - Lambda the Ultimate Pattern Factory
   https://github.com/thma/LtuPatternFactory
 
+# Comparison of Approaches
 
-### Effect Systems
-
-### Comparison of Approaches
+- Which Type-Safe Database Library Should You Use? William Yao
+  https://williamyaoh.com/posts/2019-12-14-typesafe-db-libraries.html
 
 - Monad transformers, free monads, mtl, laws and a new approach
   https://ocharles.org.uk/posts/2016-01-26-transformers-free-monads-mtl-laws.html
@@ -165,6 +171,13 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - (Talk) Final Tagless vs Free Monad, Alexander Granin, FPure 2019, Kazan
   Talk (Rus) https://youtu.be/u1GGqDQyGfc
   Slides (Eng)
+
+# Best Practices
+
+- Figuring Out How To Use Beam For DB Migrations. Willam Yao
+  https://williamyaoh.com/posts/2019-09-27-figuring-out-beam-migrations.html
+
+TODO: Error handling
 
 # Testing
 
@@ -182,7 +195,9 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 - PureScript Presto.Backend
 
-# Code Orgranization Samples
+# Showcase Projects & Code Orgranization Samples
+
+
 
 # Haskell in Production. Success Stories, Experience Reports
 
