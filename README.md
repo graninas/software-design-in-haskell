@@ -99,7 +99,9 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - Tagless Final Encoding of a Test Language,
   https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html
 
-### Design Patterns
+# Design Patterns
+
+### ReaderT Pattern
 
 - The ReaderT Design Pattern. Michael Snoyman
   https://www.fpcomplete.com/blog/2017/06/readert-design-pattern
@@ -109,6 +111,22 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 - Capability: The ReaderT Pattern Without The Boilerplate
   https://www.tweag.io/posts/2018-10-04-capability.html
+
+### Service Handle Pattern
+
+- The Service Pattern. Simon Meier
+  https://www.schoolofhaskell.com/user/meiersi/the-service-pattern
+  TODO: read and assess
+
+- Haskell Design Patterns: The Handle Pattern. Jasper Van der Jeugt
+  https://jaspervdj.be/posts/2018-03-08-handle-pattern.html
+
+### Other Patterns
+
+- (Book) Haskell Design Patterns. Ryan Lemmer
+  https://www.packtpub.com/application-development/haskell-design-patterns
+  https://www.oreilly.com/library/view/haskell-design-patterns/9781783988723/
+  TODO: read and assess
 
 - Enterprise Haskell Pattern: Lensed Reader. Michael Xavier
   https://michaelxavier.net/posts/2016-04-03-Enterprise-Haskell-Pattern-Lensed-Reader.html
@@ -123,12 +141,10 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
   TODO: read and assess
   
 
-
 ### OOP Design Patterns vs FP Design Patterns
 
 - Lambda the Ultimate Pattern Factory
   https://github.com/thma/LtuPatternFactory
-
 
 
 ### Effect Systems
@@ -200,6 +216,18 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 - TODO: Table with Software Design discipline topic coverability
 - Boring Haskell substet voting
+
+### Read, Assess & Classify
+
+- Haskell Design Patterns: Service-Oriented Programming
+  https://github.com/jaspervdj/jaspervdj/blob/master/drafts/2015-01-30-haskell-design-patterns-services.markdown
+
+- How do you design programs in Haskell or other functional programming languages?
+  https://softwareengineering.stackexchange.com/questions/72557/how-do-you-design-programs-in-haskell-or-other-functional-programming-languages
+
+- Where are all the functional programming design patterns?
+  https://softwareengineering.stackexchange.com/questions/89273/where-are-all-the-functional-programming-design-patterns
+  TODO: read and extract info
 
 
 # Haskell Learn
