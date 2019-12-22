@@ -144,11 +144,28 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 # Frameworks
 
+- Yesod
+
+- RIO
+
+- Node
+
+- Hydra
+
+- PureScript Presto
+
+- PureScript Presto.Backend
+
 # Code Orgranization Samples
 
-# Haskell in Production
+# Haskell in Production. Success Stories, Experience Reports and Phylosophy
+
+- Boring Haskell Manifesto. Michael Snoyman
+  https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto
+  
 
 - Haskell in Production
+  TODO: read and assess
   - Haskell in Production
     http://felixmulder.com/writing/2019/10/05/Haskell-in-Production.html
   - Designing Testable Components
@@ -188,3 +205,7 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - Final Tagless vs Free Monad, Alexander Granin, FPure 2019, Kazan
   Talk (Rus) https://youtu.be/u1GGqDQyGfc
   Slides (Eng)
+
+# Misc
+
+TODO: Table with Software Design discipline topic coverability
