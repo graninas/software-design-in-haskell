@@ -1,4 +1,4 @@
-WIP
+# WIP
 
 # software-design-in-haskell
 Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell.
@@ -21,6 +21,8 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 # Application Architectures
 
+### 3 Layered Cake
+
 # Design Patterns
 
 - Lambda the Ultimate Pattern Factory
@@ -32,6 +34,12 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 
 ### Free Monads
+
+
+- (Talk) Hierarchical Free Monads and Software Design in Functional Programming, Alexander Granin, FunctionalConf 2019, Bangalore, India
+  Talk https://youtu.be/3GKQ4ni2pS0
+  Slides
+
 
 ### Final Tagless
 
@@ -54,6 +62,8 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
   https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html
 
 
+### Effect Systems
+
 ### Comarison of Approaches
 
 - Monad transformers, free monads, mtl, laws and a new approach
@@ -62,6 +72,11 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - Backpack for initial and final encodings
   https://qfpl.io/posts/backpack-for-initial-and-final-encodings/
   Note: benchmarks
+
+- (Talk) Final Tagless vs Free Monad, Alexander Granin, FPure 2019, Kazan
+  Talk (Rus) https://youtu.be/u1GGqDQyGfc
+  Slides (Eng)
+
 
 # Haskell in Production
 
@@ -96,6 +111,6 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
   Talk https://youtu.be/3GKQ4ni2pS0
   Slides
 
-- Final Tagless vs Free Monad, Alexander Granin, FPure 2019
+- Final Tagless vs Free Monad, Alexander Granin, FPure 2019, Kazan
   Talk (Rus) https://youtu.be/u1GGqDQyGfc
   Slides (Eng)
