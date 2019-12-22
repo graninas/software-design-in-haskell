@@ -104,15 +104,22 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - Tagless Final Encoding of a Test Language,
   https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html
 
-### ReaderT Pattern
+### ReaderT Pattern & Service Handle Pattern
+
+- The ReaderT Design Pattern
+
+- The ReaderT Design Pattern. Michael Snoyman
+  https://www.fpcomplete.com/blog/2017/06/readert-design-pattern
 
 - The ReaderT design pattern or tagless final? Magnus Therning
   https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html
 
-### Service Handle Pattern
+- Capability: The ReaderT Pattern Without The Boilerplate
+  https://www.tweag.io/posts/2018-10-04-capability.html
 
-
-
+- Enterprise Haskell Pattern: Lensed Reader. Michael Xavier
+  https://michaelxavier.net/posts/2016-04-03-Enterprise-Haskell-Pattern-Lensed-Reader.html
+  TODO: read and assess
 
 ### Effect Systems
 
@@ -125,6 +132,10 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
   https://qfpl.io/posts/backpack-for-initial-and-final-encodings/
   Note: benchmarks
 
+- Capability: The ReaderT Pattern Without The Boilerplate
+  https://www.tweag.io/posts/2018-10-04-capability.html
+  TODO: Comparison of what?
+  
 - (Talk) Final Tagless vs Free Monad, Alexander Granin, FPure 2019, Kazan
   Talk (Rus) https://youtu.be/u1GGqDQyGfc
   Slides (Eng)
