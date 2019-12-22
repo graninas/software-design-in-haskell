@@ -163,6 +163,9 @@ A structured set of materials on how to build real-world applications in Haskell
 
 - Rule of Least Power
 - SOLID
+- KISS
+- YAGNI
+- DRY
 
 # Comparison of Approaches
 
