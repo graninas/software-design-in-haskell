@@ -28,7 +28,6 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
   NOTE: TODO: read and assess
   
 - [Anatomy of a Haskell-based Application](https://abailly.github.io/posts/cm-arch-design.html)
-  
   NOTE: TODO: read and assess
   
 - [Architecture of a Real World Haskell Application](https://www.onikudaki.net/blog/archives/6)
