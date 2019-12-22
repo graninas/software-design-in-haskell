@@ -208,4 +208,5 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 # Misc
 
-TODO: Table with Software Design discipline topic coverability
+- TODO: Table with Software Design discipline topic coverability
+- Boring Haskell substet voting
