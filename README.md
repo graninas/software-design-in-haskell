@@ -6,21 +6,17 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 # Books on Software Architecture in Haskell
 
-- Functional Design and Architecture, Alexander Granin
-  https://graninas.com/functional-design-and-architecture-book/
-
-- Practical Haskell. A Real World Guide to Programming, Serrano, Alejandro
-  https://www.apress.com/gp/book/9781484244791
+- [Functional Design and Architecture](https://graninas.com/functional-design-and-architecture-book/). Alexander Granin
+  
+- [Practical Haskell. A Real World Guide to Programming](https://www.apress.com/gp/book/9781484244791). Serrano, Alejandro
   TODO: read and assess
 
-- Real World Haskell, Bryan O'Sullivan, Don Stewart, and John Goerzen
-  http://book.realworldhaskell.org/
+- [Real World Haskell](http://book.realworldhaskell.org/). Bryan O'Sullivan, Don Stewart, John Goerzen
 
 
 # Application Architectures
 
-- Three Layer Haskell Cake. Matt Parsons
-  https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html
+- [Three Layer Haskell Cake](https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html). Matt Parsons
 
 - A Modern Architecture for FP, John A De Goes
   http://degoes.net/articles/modern-fp
