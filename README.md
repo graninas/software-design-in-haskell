@@ -21,17 +21,27 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 # Application Architectures
 
-- 3 Layered Cake
+- Three Layer Haskell Cake. Matt Parsons
+  https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html
 
 - A Modern Architecture for FP, John A De Goes
   http://degoes.net/articles/modern-fp
 
+- (Talk) Hierarchical Free Monads and Software Design in Functional Programming, Alexander Granin, FunctionalConf 2019, Bangalore, India
+  Talk https://youtu.be/3GKQ4ni2pS0
+  Slides
+
 - Hexagonal Architecture and Free Monad: Two related design patterns?
   https://www.pinterest.ru/pin/791929915696726474/#amp
   NOTE: TODO: read and assess
-
-
-
+  
+- Anatomy of a Haskell-based Application
+  https://abailly.github.io/posts/cm-arch-design.html
+  NOTE: TODO: read and assess
+  
+- Large-scale design in Haskell?
+  https://stackoverflow.com/questions/3077866/large-scale-design-in-haskell
+  
 # Design Patterns
 
 - Lambda the Ultimate Pattern Factory
@@ -58,6 +68,10 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - Building network actors with Node Framework. Alexander Granin
   https://gist.github.com/graninas/9beb8df5d88dda5fa21c47ce9bcb0e16
   
+- (Talk) Hierarchical Free Monads and Software Design in Functional Programming, Alexander Granin, FunctionalConf 2019, Bangalore, India
+  Talk https://youtu.be/3GKQ4ni2pS0
+  Slides
+  
 - Strict typing fun example — Free Monads in Haskell
   https://www.endpoint.com/blog/2016/03/11/strict-typing-fun-example-free-monads
   
@@ -73,11 +87,6 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - Combining free monads in Haskell, Mark Seemann
   https://blog.ploeh.dk/2017/07/24/combining-free-monads-in-haskell/
   TODO: assess. Note: Unnecessary type level machinery to combine Free monads, functors & interpreters
-
-- (Talk) Hierarchical Free Monads and Software Design in Functional Programming, Alexander Granin, FunctionalConf 2019, Bangalore, India
-  Talk https://youtu.be/3GKQ4ni2pS0
-  Slides
-
 
 ### Final Tagless / mtl
 
