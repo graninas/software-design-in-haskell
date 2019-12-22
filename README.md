@@ -175,7 +175,26 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 - The Haskell Pyramid
   https://patrickmn.com/software/the-haskell-pyramid/
 
+# Talks
+
+- Hierarchical Free Monads and Software Design in Functional Programming, Alexander Granin, FunctionalConf 2019, Bangalore, India
+  Talk https://youtu.be/3GKQ4ni2pS0
+  Slides
+
+- Final Tagless vs Free Monad, Alexander Granin, FPure 2019, Kazan
+  Talk (Rus) https://youtu.be/u1GGqDQyGfc
+  Slides (Eng)
+
+# Misc
+
+- TODO: Table with Software Design discipline topic coverability
+- Boring Haskell substet voting
+
+
 # Haskell Learn
+
+TODO: Is this section needed?
+
 ### Books
 
 - Get Programming with Haskell, Will Kurt
@@ -198,19 +217,3 @@ Software Design in Haskell. A structured set of materials. How to build real-wor
 
 - Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming, Simon Marlow
   http://shop.oreilly.com/product/0636920026365.do
-
-
-# Talks
-
-- Hierarchical Free Monads and Software Design in Functional Programming, Alexander Granin, FunctionalConf 2019, Bangalore, India
-  Talk https://youtu.be/3GKQ4ni2pS0
-  Slides
-
-- Final Tagless vs Free Monad, Alexander Granin, FPure 2019, Kazan
-  Talk (Rus) https://youtu.be/u1GGqDQyGfc
-  Slides (Eng)
-
-# Misc
-
-- TODO: Table with Software Design discipline topic coverability
-- Boring Haskell substet voting
