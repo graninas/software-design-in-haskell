@@ -116,7 +116,8 @@ A structured set of materials on how to build real-world applications in Haskell
 
 - Inversion of Control
 - Dependency Injection
-- Rule of Least Power
+- Low Coupling / High Cohesion
+- Rule of Least Power / Law of Demeter
 - SOLID
 - KISS
 - YAGNI
