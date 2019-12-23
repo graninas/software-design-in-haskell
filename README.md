@@ -37,8 +37,6 @@ A structured set of materials on how to build real-world applications in Haskell
   
 - [Practical Haskell. A Real World Guide to Programming](https://www.apress.com/gp/book/9781484244791) | **Serrano, Alejandro**
 
-  TODO: read and assess
-
 - [Real World Haskell](http://book.realworldhaskell.org/) | **Bryan O'Sullivan, Don Stewart, John Goerzen**
 
 
@@ -49,20 +47,15 @@ A structured set of materials on how to build real-world applications in Haskell
 - [A Modern Architecture for FP](http://degoes.net/articles/modern-fp) | **John A De Goes**
 
 - [Hexagonal Architecture and Free Monad: Two related design patterns?](https://www.pinterest.ru/pin/791929915696726474/#amp)
-
-  NOTE: TODO: read and assess
   
 - [Anatomy of a Haskell-based Application](https://abailly.github.io/posts/cm-arch-design.html)
-
-  NOTE: TODO: read and assess
   
 - [Architecture of a Real World Haskell Application](https://www.onikudaki.net/blog/archives/6)
 
 - [A Dead-Simple Web Stack In Haskell](https://williamyaoh.com/posts/2019-11-16-a-dead-simple-web-stack.html) | **William Yao**
-  
-  [Showcase project](https://gitlab.com/williamyaoh/haskell-web-stack)
+  - [Showcase project](https://gitlab.com/williamyaoh/haskell-web-stack)
 
-- [Large-scale design in Haskell?](https://stackoverflow.com/questions/3077866/large-scale-design-in-haskell) | (SO question)
+- [Large-scale design in Haskell? (SO question)](https://stackoverflow.com/questions/3077866/large-scale-design-in-haskell)
 
 # Design Approaches and Design Patterns
 
@@ -76,33 +69,27 @@ A structured set of materials on how to build real-world applications in Haskell
 
 - [Building network actors with Node Framework](https://gist.github.com/graninas/9beb8df5d88dda5fa21c47ce9bcb0e16) | **Alexander Granin**
 
-- (Article, showcase) [Automatic White-Box Testing with Free Monads](https://github.com/graninas/automatic-whitebox-testing-showcase) | **Alexander Granin**
+- [Automatic White-Box Testing with Free Monads](https://github.com/graninas/automatic-whitebox-testing-showcase) | **Alexander Granin** | \[Article, Showcase\]
 
-- (Talk) [Hierarchical Free Monads and Software Design in Functional Programming](https://youtu.be/3GKQ4ni2pS0) | **Alexander Granin** | FunctionalConf 2019, Bangalore, India
+- [(Talk) Hierarchical Free Monads and Software Design in Functional Programming](https://youtu.be/3GKQ4ni2pS0) | **Alexander Granin** | FunctionalConf 2019, Bangalore, India
+  - [Talk (Eng)](https://youtu.be/3GKQ4ni2pS0)
+  - [Slides](https://docs.google.com/presentation/d/1SYMIZ-LOI8Ylykz0PTxwiPuHN_02gIWh9AjJDO6xbvM/edit?usp=sharing)
 
-  Slides
-  
 - [Strict typing fun example — Free Monads in Haskell](https://www.endpoint.com/blog/2016/03/11/strict-typing-fun-example-free-monads)
   
-- [Free Monads: from the basics to the implementation of composable and effectful stream processing](https://deque.blog/2017/11/13/free-monads-from-basics-up-to-implementing-composable-and-effectful-stream-processing/) 
-
-  TODO: read and assess
+- [Free Monads: from the basics to the implementation of composable and effectful stream processing](https://deque.blog/2017/11/13/free-monads-from-basics-up-to-implementing-composable-and-effectful-stream-processing/)
 
 - [What does Free buy us?](https://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html) | **Matt Parsons**
   
 - [What is the “Free Monad + Interpreter” pattern?](https://softwareengineering.stackexchange.com/questions/242795/what-is-the-free-monad-interpreter-pattern#)
 
 - [Combining free monads in Haskell](https://blog.ploeh.dk/2017/07/24/combining-free-monads-in-haskell/) | **Mark Seemann**
-  
-  TODO: read and assess. Note: Unnecessary type level machinery to combine Free monads, functors & interpreters
 
 ### Final Tagless / mtl
 
 - [Tagless Final Encoding in Haskell](https://jproyo.github.io/posts/2019-03-17-tagless-final-haskell.html) | **Juan Pablo Royo**
 
 - [Introduction to Tagless Final](https://serokell.io/blog/tagless-final) | **Vasiliy Kevroletin** | Serokell
-  
-  Note: wrong statements about Free Monads
 
 - [Reducing boilerplate in finally tagless style](https://ro-che.info/articles/2016-02-03-finally-tagless-boilerplate) | **Roman Cheplyaka**
 
@@ -122,27 +109,17 @@ A structured set of materials on how to build real-world applications in Haskell
 
 - [The Service Pattern](https://www.schoolofhaskell.com/user/meiersi/the-service-pattern) | **Simon Meier**
 
-  TODO: read and assess
-
 - [Haskell Design Patterns: The Handle Pattern](https://jaspervdj.be/posts/2018-03-08-handle-pattern.html) | **Jasper Van der Jeugt**
 
 ### Other Patterns
 
-- (Book) [Haskell Design Patterns](https://www.oreilly.com/library/view/haskell-design-patterns/9781783988723/) | **Ryan Lemmer**
-  
-  TODO: read and assess
+- [(Book) Haskell Design Patterns](https://www.oreilly.com/library/view/haskell-design-patterns/9781783988723/) | **Ryan Lemmer**
 
 - [Enterprise Haskell Pattern: Lensed Reader](https://michaelxavier.net/posts/2016-04-03-Enterprise-Haskell-Pattern-Lensed-Reader.html) | **Michael Xavier**
-  
-  TODO: read and assess
 
 - [The Has Type Class Pattern](https://hackernoon.com/the-has-type-class-pattern-ca12adab70ae) | **Jonathan Fischoff**
   
-  TODO: read and assess
-  
 - [Type Class Patterns and Anti-patterns](https://hackernoon.com/type-class-patterns-and-anti-patterns-efd045c5af66) | **Jonathan Fischoff**
-
-  TODO: read and assess
 
 ### OOP Design Patterns vs FP Design Patterns
 
@@ -152,21 +129,15 @@ A structured set of materials on how to build real-world applications in Haskell
 
 - [Which Type-Safe Database Library Should You Use?](https://williamyaoh.com/posts/2019-12-14-typesafe-db-libraries.html) | **William Yao**
 
-- (Talk, Rus) [Final Tagless vs Free Monad, Alexander Granin, FPure 2019, Kazan](https://youtu.be/u1GGqDQyGfc)
-
-  Slides (Eng)
+- [(Talk (Rus)) Final Tagless vs Free Monad](https://youtu.be/u1GGqDQyGfc) | **Alexander Granin** | FPure 2019, Kazan
+  - [Talk (Rus)](https://www.youtube.com/watch?v=u1GGqDQyGfc)
+  - [Slides (Eng)](https://drive.google.com/open?id=1VhS8ySgk2w5RoN_l_Ar_axcE4Dzf97zLw1uuzUJQbCo)
 
 - [Monad transformers, free monads, mtl, laws and a new approach](https://ocharles.org.uk/posts/2016-01-26-transformers-free-monads-mtl-laws.html)
 
 - [Backpack for initial and final encodings](https://qfpl.io/posts/backpack-for-initial-and-final-encodings/)
 
-  Note: read and assess. There are benchmarks
-
 - [Capability: The ReaderT Pattern Without The Boilerplate](https://www.tweag.io/posts/2018-10-04-capability.html)
-
-  TODO: Comparison of what?
-
-TODO: Comparison table for design approaches, patterns and architectures
 
 # Phylosophy
 
@@ -190,12 +161,8 @@ TODO: Comparison table for design approaches, patterns and architectures
 - [Figuring Out How To Use Beam For DB Migrations](https://williamyaoh.com/posts/2019-09-27-figuring-out-beam-migrations.html) | **Willam Yao**
 
 - [Haskell practices](https://github.com/freckle/guides/blob/master/haskell-best-practices.md)
-  
-  TODO: read and assess
-  
+ 
 - [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/) | **Lexi Lambda**
-
-  TODO: read and assess
 
 - [Programming guidelines](https://wiki.haskell.org/Programming_guidelines)
 
@@ -205,14 +172,9 @@ TODO: Comparison table for design approaches, patterns and architectures
 
 - [Tibbe's Haskell Style Guide](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md)
 
-TODO: Style Guides comparison table
-
-TODO: Error handling
-
 # Testing
 
 # Showcase Projects & Code Orgranization Samples
-
 
 
 # Haskell in Production. Success Stories, Experience Reports
