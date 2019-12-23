@@ -44,7 +44,7 @@ A structured set of materials on how to build real-world applications in Haskell
 - [Hexagonal Architecture and Free Monad: Two related design patterns?](https://www.pinterest.ru/pin/791929915696726474/#amp)
 - [Anatomy of a Haskell-based Application](https://abailly.github.io/posts/cm-arch-design.html)
 - [Architecture of a Real World Haskell Application](https://www.onikudaki.net/blog/archives/6)
-- [A Dead-Simple Web Stack In Haskell](https://williamyaoh.com/posts/2019-11-16-a-dead-simple-web-stack.html) | **William Yao** | [Showcase](https://gitlab.com/williamyaoh/haskell-web-stack)
+- [A Dead-Simple Web Stack In Haskell](https://williamyaoh.com/posts/2019-11-16-a-dead-simple-web-stack.html) | [Showcase](https://gitlab.com/williamyaoh/haskell-web-stack) | **William Yao**
 - [Large-scale design in Haskell? (SO question)](https://stackoverflow.com/questions/3077866/large-scale-design-in-haskell)
 
 # Design Approaches and Design Patterns
@@ -56,7 +56,7 @@ A structured set of materials on how to build real-world applications in Haskell
 - [A Modern Architecture for FP](http://degoes.net/articles/modern-fp) | **John A De Goes**
 - [Building network actors with Node Framework](https://gist.github.com/graninas/9beb8df5d88dda5fa21c47ce9bcb0e16) | **Alexander Granin**
 - [Automatic White-Box Testing with Free Monads](https://github.com/graninas/automatic-whitebox-testing-showcase) | **Alexander Granin** | [Showcase](https://github.com/graninas/automatic-whitebox-testing-showcase)
-- [Hierarchical Free Monads and Software Design in Functional Programming (Talk)](https://youtu.be/3GKQ4ni2pS0) | **Alexander Granin** | FunctionalConf 2019, Bangalore, India | [Slides](https://docs.google.com/presentation/d/1SYMIZ-LOI8Ylykz0PTxwiPuHN_02gIWh9AjJDO6xbvM/edit?usp=sharing)
+- [Hierarchical Free Monads and Software Design in Functional Programming (Talk)](https://youtu.be/3GKQ4ni2pS0) | [Slides](https://docs.google.com/presentation/d/1SYMIZ-LOI8Ylykz0PTxwiPuHN_02gIWh9AjJDO6xbvM/edit?usp=sharing) | **Alexander Granin** | FunctionalConf 2019, Bangalore, India
 - [Strict typing fun example — Free Monads in Haskell](https://www.endpoint.com/blog/2016/03/11/strict-typing-fun-example-free-monads)
 - [Free Monads: from the basics to the implementation of composable and effectful stream processing](https://deque.blog/2017/11/13/free-monads-from-basics-up-to-implementing-composable-and-effectful-stream-processing/)
 - [What does Free buy us?](https://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html) | **Matt Parsons**
@@ -97,7 +97,7 @@ A structured set of materials on how to build real-world applications in Haskell
 # Comparison of Approaches
 
 - [Which Type-Safe Database Library Should You Use?](https://williamyaoh.com/posts/2019-12-14-typesafe-db-libraries.html) | **William Yao**
-- [Final Tagless vs Free Monad (Talk, Rus)](https://youtu.be/u1GGqDQyGfc) | **Alexander Granin** | FPure 2019, Kazan | [Slides (Eng)](https://drive.google.com/open?id=1VhS8ySgk2w5RoN_l_Ar_axcE4Dzf97zLw1uuzUJQbCo)
+- [Final Tagless vs Free Monad (Talk, Rus)](https://youtu.be/u1GGqDQyGfc) | [Slides (Eng)](https://drive.google.com/open?id=1VhS8ySgk2w5RoN_l_Ar_axcE4Dzf97zLw1uuzUJQbCo) | **Alexander Granin** | FPure 2019, Kazan
 - [Monad transformers, free monads, mtl, laws and a new approach](https://ocharles.org.uk/posts/2016-01-26-transformers-free-monads-mtl-laws.html)
 - [Backpack for initial and final encodings](https://qfpl.io/posts/backpack-for-initial-and-final-encodings/)
 - [Capability: The ReaderT Pattern Without The Boilerplate](https://www.tweag.io/posts/2018-10-04-capability.html)
@@ -148,7 +148,7 @@ A structured set of materials on how to build real-world applications in Haskell
 # Talks
 
 - [Hierarchical Free Monads and Software Design in Functional Programming (Talk)](https://youtu.be/3GKQ4ni2pS0) | **Alexander Granin** | FunctionalConf 2019, Bangalore, India | [Slides](https://docs.google.com/presentation/d/1SYMIZ-LOI8Ylykz0PTxwiPuHN_02gIWh9AjJDO6xbvM/edit?usp=sharing)
-- [Final Tagless vs Free Monad (Talk, Rus)](https://youtu.be/u1GGqDQyGfc) | **Alexander Granin** | FPure 2019, Kazan | [Slides (Eng)](https://drive.google.com/open?id=1VhS8ySgk2w5RoN_l_Ar_axcE4Dzf97zLw1uuzUJQbCo)
+- [Final Tagless vs Free Monad (Talk, Rus)](https://youtu.be/u1GGqDQyGfc) | [Slides (Eng)](https://drive.google.com/open?id=1VhS8ySgk2w5RoN_l_Ar_axcE4Dzf97zLw1uuzUJQbCo) | **Alexander Granin** | FPure 2019, Kazan
 
 # Haskell Ecosystem and Accessibility
 
