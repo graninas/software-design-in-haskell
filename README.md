@@ -120,6 +120,8 @@ A structured set of materials on how to build real-world applications in Haskell
 - [Figuring Out How To Use Beam For DB Migrations](https://williamyaoh.com/posts/2019-09-27-figuring-out-beam-migrations.html) | **Willam Yao**
 - [Haskell practices](https://github.com/freckle/guides/blob/master/haskell-best-practices.md)
 - [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/) | **Lexi Lambda**
+- [Getting things done in Haskell (Talk)](https://www.youtube.com/watch?v=-X1vrxQUETM) |  **Jasper Van der Jeugt** | HaskellerZ, Feb 2018
+- [Working around Haskell's namespace problem for records](https://gist.github.com/mtesseract/1b69087b0aeeb6ddd7023ff05f7b7e68) | **Moritz Clasmeier**
 - [Programming guidelines](https://wiki.haskell.org/Programming_guidelines)
 - [Kowainik's Haskell Style Guide](https://kowainik.github.io/posts/2019-02-06-style-guide)
 - [Tweag.IO's Haskell Style Guide](https://github.com/tweag/guides/blob/master/style/Haskell.md)
