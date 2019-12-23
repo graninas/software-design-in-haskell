@@ -114,6 +114,8 @@ A structured set of materials on how to build real-world applications in Haskell
 
 # Design Principles
 
+- Inversion of Control
+- Dependency Injection
 - Rule of Least Power
 - SOLID
 - KISS
