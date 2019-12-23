@@ -28,8 +28,7 @@ Work in progress.
 * [Haskell in Production. Success Stories, Experience Reports](#Haskell-in-Production--Success-Stories--Experience-Reports)
 * [Talks](#Talks)
 * [Haskell Ecosystem and Accessibility](#Haskell-Ecosystem-and-Accessibility)
-  * [Haskell Ecosystem](#Haskell-Ecosystem)
-  * [Haskell Community](#Haskell-Community)
+  * [Haskell Ecosystem and Community](#Haskell-Ecosystem-and-Community)
   * [Haskell Learn: Books](#Haskell-Learn--Books)
 
 --------
@@ -168,7 +167,7 @@ Work in progress.
 
 This section is aimed to show that learning and using Haskell is not as horrible as some folks are trying to claim.
 
-### Haskell Ecosystem & Community
+### Haskell Ecosystem and Community
 
 - [State of the Haskell ecosystem](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md) | **Gabriel Gonzalez**
 - [2017 State of Haskell Survey results](https://taylor.fausak.me/2017/11/15/2017-state-of-haskell-survey-results/) | **Taylor Fausak**
