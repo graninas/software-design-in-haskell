@@ -105,7 +105,7 @@ A structured set of materials on how to build real-world applications in Haskell
 
 ### Comparison Table
 
-- [Comparison Table](https://gist.github.com/graninas/1b7961ccaedf7b5cb92417a1599fdc99)
+- [Haskell Approaches Comparison Table](https://gist.github.com/graninas/1b7961ccaedf7b5cb92417a1599fdc99)
 
 # Phylosophy
 
