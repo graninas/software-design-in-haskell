@@ -168,12 +168,12 @@ Work in progress.
 
 This section is aimed to show that learning and using Haskell is not as horrible as some folks are trying to claim.
 
-### Haskell Ecosystem
+### Haskell Ecosystem & Community
 
 - [State of the Haskell ecosystem](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md) | **Gabriel Gonzalez**
-
-### Haskell Community
-
+- [2017 State of Haskell Survey results](https://taylor.fausak.me/2017/11/15/2017-state-of-haskell-survey-results/) | **Taylor Fausak**
+- [2018 State of Haskell Survey results](https://taylor.fausak.me/2018/11/18/2018-state-of-haskell-survey-results/) | **Taylor Fausak**
+- [2019 State of Haskell Survey results](https://taylor.fausak.me/2019/11/16/haskell-survey-results/) | **Taylor Fausak**
 - [The Haskell Pyramid](https://patrickmn.com/software/the-haskell-pyramid/)
 
 ### Haskell Learn: Books
