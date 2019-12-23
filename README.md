@@ -34,18 +34,13 @@ A structured set of materials on how to build real-world applications in Haskell
 # Books on Software Architecture in Haskell
 
 - [Functional Design and Architecture](https://graninas.com/functional-design-and-architecture-book/) | **Alexander Granin**
-  
 - [Practical Haskell. A Real World Guide to Programming](https://www.apress.com/gp/book/9781484244791) | **Serrano, Alejandro**
-
 - [Real World Haskell](http://book.realworldhaskell.org/) | **Bryan O'Sullivan, Don Stewart, John Goerzen**
-
 
 # Application Architectures
 
 - [Three Layer Haskell Cake](https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html) | **Matt Parsons**
-
 - [A Modern Architecture for FP](http://degoes.net/articles/modern-fp) | **John A De Goes**
-
 - [Hexagonal Architecture and Free Monad: Two related design patterns?](https://www.pinterest.ru/pin/791929915696726474/#amp)
   
 - [Anatomy of a Haskell-based Application](https://abailly.github.io/posts/cm-arch-design.html)
@@ -71,8 +66,7 @@ A structured set of materials on how to build real-world applications in Haskell
 
 - [Automatic White-Box Testing with Free Monads](https://github.com/graninas/automatic-whitebox-testing-showcase) | **Alexander Granin** | \[Article, Showcase\]
 
-- [(Talk) Hierarchical Free Monads and Software Design in Functional Programming](https://youtu.be/3GKQ4ni2pS0) | **Alexander Granin** | FunctionalConf 2019, Bangalore, India
-  - [Talk (Eng)](https://youtu.be/3GKQ4ni2pS0)
+- [(Talk (Eng)) Hierarchical Free Monads and Software Design in Functional Programming](https://youtu.be/3GKQ4ni2pS0) | **Alexander Granin** | FunctionalConf 2019, Bangalore, India
   - [Slides](https://docs.google.com/presentation/d/1SYMIZ-LOI8Ylykz0PTxwiPuHN_02gIWh9AjJDO6xbvM/edit?usp=sharing)
 
 - [Strict typing fun example — Free Monads in Haskell](https://www.endpoint.com/blog/2016/03/11/strict-typing-fun-example-free-monads)
@@ -130,7 +124,6 @@ A structured set of materials on how to build real-world applications in Haskell
 - [Which Type-Safe Database Library Should You Use?](https://williamyaoh.com/posts/2019-12-14-typesafe-db-libraries.html) | **William Yao**
 
 - [(Talk (Rus)) Final Tagless vs Free Monad](https://youtu.be/u1GGqDQyGfc) | **Alexander Granin** | FPure 2019, Kazan
-  - [Talk (Rus)](https://www.youtube.com/watch?v=u1GGqDQyGfc)
   - [Slides (Eng)](https://drive.google.com/open?id=1VhS8ySgk2w5RoN_l_Ar_axcE4Dzf97zLw1uuzUJQbCo)
 
 - [Monad transformers, free monads, mtl, laws and a new approach](https://ocharles.org.uk/posts/2016-01-26-transformers-free-monads-mtl-laws.html)
