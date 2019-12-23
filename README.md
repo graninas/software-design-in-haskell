@@ -160,7 +160,7 @@ This section is aimed to show that learning and using Haskell is not as horrible
 
 ### Haskell Ecosystem
 
-- [Haskell Ecosystem Survey](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md) | **Gabriel Gonzalez**
+- [State of the Haskell ecosystem](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md) | **Gabriel Gonzalez**
 
 ### Haskell Community
 
