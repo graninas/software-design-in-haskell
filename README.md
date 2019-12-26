@@ -22,7 +22,7 @@ A structured set of materials on how to build real-world applications in Haskell
 * [Methodologies and Phylosophy](#Methodologies-and-phylosophy)
 * [Best Practices & Guidelines](#Best-Practices--Guidelines)
 * [Testing](#Testing)
-* [Showcase Projects & Code Orgranization Samples](#Showcase-Projects--Code-Orgranization-Samples)
+* [Showcase Projects & Code Organization Samples](#Showcase-Projects--Code-Orgranization-Samples)
 * [Haskell in Production. Success Stories, Experience Reports](#Haskell-in-Production--Success-Stories--Experience-Reports)
 * [Talks](#Talks)
 * [Haskell Ecosystem and Accessibility](#Haskell-Ecosystem-and-Accessibility)
