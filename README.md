@@ -2,8 +2,6 @@
 
 A structured set of materials on how to build real-world applications in Haskell.
 
-Work in progress.
-
 ---------
 
 ### Table of Contents
