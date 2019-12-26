@@ -111,6 +111,7 @@ Work in progress.
 
 ### Comparison Table
 
+Separate page:
 - [Haskell Approaches Comparison Table](https://gist.github.com/graninas/1b7961ccaedf7b5cb92417a1599fdc99)
 
 # Phylosophy
@@ -148,6 +149,8 @@ Work in progress.
 
 # Showcase Projects & Code Orgranization Samples
 
+Separate page:
+- [Software Design Showcase Projects in Haskell](https://gist.github.com/graninas/49be74a21fbd58236bad28e1ce1eed94)
 
 # Haskell in Production. Success Stories, Experience Reports
 
