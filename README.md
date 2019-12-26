@@ -74,6 +74,9 @@ Work in progress.
 
 ### Effect Systems
 
+- [Eff to the Rescue!](https://mmhaskell.com/blog/2017/11/20/eff-to-the-rescue)
+- [Freer doesn’t come for free](https://medium.com/barely-functional/freer-doesnt-come-for-free-c9fade793501)
+
 ### ReaderT Pattern
 
 - [The ReaderT Design Pattern](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) | **Michael Snoyman**
