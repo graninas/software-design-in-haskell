@@ -76,6 +76,7 @@ Work in progress.
 
 - [Eff to the Rescue!](https://mmhaskell.com/blog/2017/11/20/eff-to-the-rescue)
 - [Freer doesn’t come for free](https://medium.com/barely-functional/freer-doesnt-come-for-free-c9fade793501) | **Eric Torreborre**
+- [Serving HTTP Content with Fused-Effects](https://blog.sumtypeofway.com/posts/serving-http-content-with-fused-effects.html) | **Patrick Thomson**
 
 ### ReaderT Pattern
 
