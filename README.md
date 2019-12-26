@@ -21,7 +21,6 @@ A structured set of materials on how to build real-world applications in Haskell
 * [Design Principles](#Design-Principles)
 * [Methodologies and Phylosophy](#Methodologies-and-phylosophy)
 * [Best Practices & Guidelines](#Best-Practices--Guidelines)
-* [Testing](#Testing)
 * [Showcase Projects & Code Organization Samples](#Showcase-Projects--Code-Orgranization-Samples)
 * [Haskell in Production. Success Stories, Experience Reports](#Haskell-in-Production--Success-Stories--Experience-Reports)
 * [Talks](#Talks)
@@ -145,8 +144,6 @@ Separate page:
 - [Tweag.IO's Haskell Style Guide](https://github.com/tweag/guides/blob/master/style/Haskell.md)
 - [Tibbe's Haskell Style Guide](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md)
 
-# Testing
-
 # Showcase Projects & Code Orgranization Samples
 
 Separate page:
@@ -198,3 +195,8 @@ This section is aimed to show that learning and using Haskell is not as horrible
 - [Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming](http://shop.oreilly.com/product/0636920026365.do) | **Simon Marlow**
 - [Real World Haskell](http://book.realworldhaskell.org/) | **Bryan O'Sullivan, Don Stewart, John Goerzen**
 - [Functional Design and Architecture](https://graninas.com/functional-design-and-architecture-book/) | **Alexander Granin**
+
+### Misc
+
+- [Appendix to Software Design in Haskell](https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf)
+  - [Appendix: Testing](https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf#Testing)
