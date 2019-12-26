@@ -53,16 +53,16 @@ A structured set of materials on how to build real-world applications in Haskell
 - [Why free monads matter](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html) | **Gabriel Gonzalez**
 - [Free monads in 7 easy steps](https://joa.sh/posts/2015-09-13-free-monad-steps.html)
 - [A Modern Architecture for FP](http://degoes.net/articles/modern-fp) | **John A De Goes**
-- [Building network actors with Node Framework](https://gist.github.com/graninas/9beb8df5d88dda5fa21c47ce9bcb0e16) | **Alexander Granin**
+- [Building network actors with Node Framework](https://gist.github.com/graninas/9beb8df5d88dda5fa21c47ce9bcb0e16) | **Alexander Granin** | _Note: a Free monadic architecture is described there._
 - [Automatic White-Box Testing with Free Monads](https://github.com/graninas/automatic-whitebox-testing-showcase) | **Alexander Granin** | [Showcase](https://github.com/graninas/automatic-whitebox-testing-showcase)
 - [Hierarchical Free Monads and Software Design in Functional Programming (Talk)](https://youtu.be/3GKQ4ni2pS0) | [Slides](https://docs.google.com/presentation/d/1SYMIZ-LOI8Ylykz0PTxwiPuHN_02gIWh9AjJDO6xbvM/edit?usp=sharing) | **Alexander Granin** | FunctionalConf 2019, Bangalore, India
 - [Functional Design and Architecture (Book)](https://graninas.com/functional-design-and-architecture-book/) | **Alexander Granin**
 - [Strict typing fun example — Free Monads in Haskell](https://www.endpoint.com/blog/2016/03/11/strict-typing-fun-example-free-monads)
 - [Free Monads: from the basics to the implementation of composable and effectful stream processing](https://deque.blog/2017/11/13/free-monads-from-basics-up-to-implementing-composable-and-effectful-stream-processing/)
 - [What does Free buy us?](https://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html) | **Matt Parsons**
-- [What is the “Free Monad + Interpreter” pattern?](https://softwareengineering.stackexchange.com/questions/242795/what-is-the-free-monad-interpreter-pattern#)
 - [Combining free monads in Haskell](https://blog.ploeh.dk/2017/07/24/combining-free-monads-in-haskell/) | **Mark Seemann**
 - [Free monad considered harmful](https://markkarpov.com/post/free-monad-considered-harmful.html) | **Mark Karpov**
+- [What is the “Free Monad + Interpreter” pattern? (SO question)](https://softwareengineering.stackexchange.com/questions/242795/what-is-the-free-monad-interpreter-pattern#)
 
 ### Final Tagless / mtl
 
