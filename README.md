@@ -46,7 +46,7 @@ Work in progress.
 - [Hexagonal Architecture and Free Monad: Two related design patterns?](https://www.pinterest.ru/pin/791929915696726474/#amp)
 - [Anatomy of a Haskell-based Application](https://abailly.github.io/posts/cm-arch-design.html)
 - [Architecture of a Real World Haskell Application](https://www.onikudaki.net/blog/archives/6)
-- [A Dead-Simple Web Stack In Haskell](https://williamyaoh.com/posts/2019-11-16-a-dead-simple-web-stack.html) | [Showcase](https://gitlab.com/williamyaoh/haskell-web-stack) | **William Yao**
+- [Hierarchical Free Monads and Software Design in Functional Programming (Talk)](https://youtu.be/3GKQ4ni2pS0) | [Slides](https://docs.google.com/presentation/d/1SYMIZ-LOI8Ylykz0PTxwiPuHN_02gIWh9AjJDO6xbvM/edit?usp=sharing) | **Alexander Granin** | FunctionalConf 2019, Bangalore, India
 - [Large-scale design in Haskell? (SO question)](https://stackoverflow.com/questions/3077866/large-scale-design-in-haskell)
 
 # Design Approaches and Design Patterns
