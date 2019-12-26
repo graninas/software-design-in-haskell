@@ -65,6 +65,7 @@ Work in progress.
 - [What does Free buy us?](https://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html) | **Matt Parsons**
 - [What is the “Free Monad + Interpreter” pattern?](https://softwareengineering.stackexchange.com/questions/242795/what-is-the-free-monad-interpreter-pattern#)
 - [Combining free monads in Haskell](https://blog.ploeh.dk/2017/07/24/combining-free-monads-in-haskell/) | **Mark Seemann**
+- [Free monad considered harmful](https://markkarpov.com/post/free-monad-considered-harmful.html) | **Mark Karpov**
 
 ### Final Tagless / mtl
 
