@@ -199,4 +199,4 @@ This section is aimed to show that learning and using Haskell is not as horrible
 ### Misc
 
 - [Appendix to Software Design in Haskell](https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf)
-  - [Appendix: Testing](https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf#Testing)
+  - [Testing](https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf#Testing)
