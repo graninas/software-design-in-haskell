@@ -117,6 +117,7 @@ Separate page:
 
 - [Boring Haskell Manifesto](https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto) | **Michael Snoyman** | [Reddit discussion](https://www.reddit.com/r/haskell/comments/dzx15d/boring_haskell_manifesto_by_michael_snoyman/)
 - [The Haskell Pyramid](https://patrickmn.com/software/the-haskell-pyramid/)
+- [My thoughts on Haskell in 2020](https://alpacaaa.net/thoughts-on-haskell-2020/) | **Marco Sampellegrini**
 
 # Design Principles
 
