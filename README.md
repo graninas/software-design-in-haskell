@@ -40,6 +40,7 @@ A structured set of materials on how to build real-world applications in Haskell
 
 - [Three Layer Haskell Cake](https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html) | **Matt Parsons**
 - [A Modern Architecture for FP](http://degoes.net/articles/modern-fp) | **John A De Goes**
+- [Modern Functional Programming: Part 2](http://degoes.net/articles/modern-fp-part-2) | **John A De Goes**
 - [Hexagonal Architecture and Free Monad: Two related design patterns?](https://www.pinterest.ru/pin/791929915696726474/#amp)
 - [Anatomy of a Haskell-based Application](https://abailly.github.io/posts/cm-arch-design.html)
 - [Architecture of a Real World Haskell Application](https://www.onikudaki.net/blog/archives/6)
