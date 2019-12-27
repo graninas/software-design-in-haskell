@@ -195,6 +195,8 @@ This section is aimed to show that learning and using Haskell is not as horrible
 - [Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming](http://shop.oreilly.com/product/0636920026365.do) | **Simon Marlow**
 - [Real World Haskell](http://book.realworldhaskell.org/) | **Bryan O'Sullivan, Don Stewart, John Goerzen**
 - [Functional Design and Architecture](https://graninas.com/functional-design-and-architecture-book/) | **Alexander Granin**
+- [Thinking with Types. Type-Level Programming in Haskell](https://thinkingwithtypes.com/) | **Sandy Maguire**
+- [Haskell Programming from First Principles](https://haskellbook.com/) | **Chistopher Allen, Julie Moronuki**
 
 ### Misc
 
