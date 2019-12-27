@@ -80,7 +80,7 @@ A structured set of materials on how to build real-world applications in Haskell
 ### ReaderT Pattern
 
 - [The ReaderT Design Pattern](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) | **Michael Snoyman**
-- [The ReaderT design pattern or tagless final?](https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html) | **Magnus Therning**
+- [The ReaderT design pattern or tagless final?](http://magnus.therning.org/posts/2019-02-02-000-the-readert-design-pattern-or-tagless-final-.html) | **Magnus Therning**
 - [Capability: The ReaderT Pattern Without The Boilerplate](https://www.tweag.io/posts/2018-10-04-capability.html)
 
 ### Service Handle Pattern
