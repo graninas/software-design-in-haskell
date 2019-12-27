@@ -63,6 +63,7 @@ A structured set of materials on how to build real-world applications in Haskell
 - [Combining free monads in Haskell](https://blog.ploeh.dk/2017/07/24/combining-free-monads-in-haskell/) | **Mark Seemann**
 - [Free monad considered harmful](https://markkarpov.com/post/free-monad-considered-harmful.html) | **Mark Karpov**
 - [What is the “Free Monad + Interpreter” pattern? (SO question)](https://softwareengineering.stackexchange.com/questions/242795/what-is-the-free-monad-interpreter-pattern#)
+- [A Practical Introduction to Freer Monads (Eff)](https://captjakk.com/posts/2019-05-12-practical-intro-eff.html) | **Keagan McClelland**
 
 ### Final Tagless / mtl
 
@@ -76,6 +77,7 @@ A structured set of materials on how to build real-world applications in Haskell
 - [Eff to the Rescue!](https://mmhaskell.com/blog/2017/11/20/eff-to-the-rescue)
 - [Freer doesn’t come for free](https://medium.com/barely-functional/freer-doesnt-come-for-free-c9fade793501) | **Eric Torreborre**
 - [Serving HTTP Content with Fused-Effects](https://blog.sumtypeofway.com/posts/serving-http-content-with-fused-effects.html) | **Patrick Thomson**
+- [A Practical Introduction to Freer Monads (Eff)](https://captjakk.com/posts/2019-05-12-practical-intro-eff.html) | **Keagan McClelland**
 
 ### ReaderT Pattern
 
