@@ -42,7 +42,7 @@ A structured set of materials on how to build real-world applications in Haskell
 - [A Modern Architecture for FP](http://degoes.net/articles/modern-fp) | **John A De Goes**
 - [Modern Functional Programming: Part 2](http://degoes.net/articles/modern-fp-part-2) | **John A De Goes**
 - [Anatomy of a Haskell-based Application](https://abailly.github.io/posts/cm-arch-design.html)
-- [Architecture of a Real World Haskell Application](https://www.onikudaki.net/blog/archives/6)
+- [Architecture of a Real World Haskell Application](https://www.onikudaki.net/blog/archives/6) | **Michael Oswald**
 - [Hierarchical Free Monads and Software Design in Functional Programming (Talk)](https://youtu.be/3GKQ4ni2pS0) | [Slides](https://docs.google.com/presentation/d/1SYMIZ-LOI8Ylykz0PTxwiPuHN_02gIWh9AjJDO6xbvM/edit?usp=sharing) | **Alexander Granin** | FunctionalConf 2019, Bangalore, India
 - [Hexagonal Architecture and Free Monad: Two related design patterns?](https://www.pinterest.ru/pin/791929915696726474/#amp) | **Quentin Duval**
 - [Large-scale design in Haskell? (SO question)](https://stackoverflow.com/questions/3077866/large-scale-design-in-haskell)
