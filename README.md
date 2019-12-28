@@ -156,14 +156,14 @@ Separate page:
 # Haskell in Production. Success Stories, Experience Reports
 
 - [The Joy and Agony of Haskell in Production](http://www.stephendiehl.com/posts/production.html) | **Stephen Diehl**
-- [Haskell is Not For Production and Other Tales (Talk)](https://m.youtube.com/watch?v=mlTO510zO78) | **Katie Miller**
+- [Haskell is Not For Production and Other Tales (Talk)](https://m.youtube.com/watch?v=mlTO510zO78) | **Katie Miller** | Linux.conf.au 2016 | Geelong, Australia
 - [Production Haskell (Talk)](https://m.youtube.com/watch?v=AZQLkkDXy68) | **Reid Draper**
-- Haskell in Production
+- Haskell in Production | **Felix Mulder**
   - [Haskell in Production](http://felixmulder.com/writing/2019/10/05/Haskell-in-Production.html)
   - [Designing Testable Components](http://felixmulder.com/writing/2019/10/05/Designing-testable-components.html)
 - [Haskell in Production](https://blog.hasura.io/from-zero-to-hipster-haskell-in-production-97ea99d90c3b/) | Hasura.IO
 - [5 Years of Haskell in Production (Talk)](https://youtu.be/hZgW4mT1PkE) | **Alexander Thiemann**
-- [Retrospective: Haskell in Production](https://www.infoq.com/news/2016/08/haskell-production-retrospective/)
+- [Retrospective: Haskell in Production](https://www.infoq.com/news/2016/08/haskell-production-retrospective/) | **Sergio De Simone**
 - [My “Haskell In Production” Story](https://medium.com/@djoyner/my-haskell-in-production-story-e48897ed54c) | **David Joyner**
 
 # Talks
@@ -171,7 +171,7 @@ Separate page:
 - [Getting things done in Haskell (Talk)](https://www.youtube.com/watch?v=-X1vrxQUETM) |  **Jasper Van der Jeugt** | HaskellerZ, Feb 2018
 - [Hierarchical Free Monads and Software Design in Functional Programming (Talk)](https://youtu.be/3GKQ4ni2pS0) | [Slides](https://docs.google.com/presentation/d/1SYMIZ-LOI8Ylykz0PTxwiPuHN_02gIWh9AjJDO6xbvM/edit?usp=sharing) | **Alexander Granin** | FunctionalConf 2019, Bangalore, India
 - [Final Tagless vs Free Monad (Talk, Rus)](https://youtu.be/u1GGqDQyGfc) | [Slides (Eng)](https://drive.google.com/open?id=1VhS8ySgk2w5RoN_l_Ar_axcE4Dzf97zLw1uuzUJQbCo) | **Alexander Granin** | FPure 2019, Kazan
-- [Haskell is Not For Production and Other Tales (Talk)](https://m.youtube.com/watch?v=mlTO510zO78) | **Katie Miller**
+- [Haskell is Not For Production and Other Tales (Talk)](https://m.youtube.com/watch?v=mlTO510zO78) | **Katie Miller** | Linux.conf.au 2016 | Geelong, Australia
 - [Production Haskell (Talk)](https://m.youtube.com/watch?v=AZQLkkDXy68) | **Reid Draper**
 - [5 Years of Haskell in Production (Talk)](https://youtu.be/hZgW4mT1PkE) | **Alexander Thiemann**
 
@@ -185,7 +185,7 @@ This section is aimed to show that learning and using Haskell is not as horrible
 - [2017 State of Haskell Survey results](https://taylor.fausak.me/2017/11/15/2017-state-of-haskell-survey-results/) | **Taylor Fausak**
 - [2018 State of Haskell Survey results](https://taylor.fausak.me/2018/11/18/2018-state-of-haskell-survey-results/) | **Taylor Fausak**
 - [2019 State of Haskell Survey results](https://taylor.fausak.me/2019/11/16/haskell-survey-results/) | **Taylor Fausak**
-- [The Haskell Pyramid](https://patrickmn.com/software/the-haskell-pyramid/)
+- [The Haskell Pyramid](https://patrickmn.com/software/the-haskell-pyramid/) | **Patrick**
 
 ### Haskell Learn: Books
 
