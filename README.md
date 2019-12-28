@@ -41,10 +41,10 @@ A structured set of materials on how to build real-world applications in Haskell
 - [Three Layer Haskell Cake](https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html) | **Matt Parsons**
 - [A Modern Architecture for FP](http://degoes.net/articles/modern-fp) | **John A De Goes**
 - [Modern Functional Programming: Part 2](http://degoes.net/articles/modern-fp-part-2) | **John A De Goes**
-- [Hexagonal Architecture and Free Monad: Two related design patterns?](https://www.pinterest.ru/pin/791929915696726474/#amp)
 - [Anatomy of a Haskell-based Application](https://abailly.github.io/posts/cm-arch-design.html)
 - [Architecture of a Real World Haskell Application](https://www.onikudaki.net/blog/archives/6)
 - [Hierarchical Free Monads and Software Design in Functional Programming (Talk)](https://youtu.be/3GKQ4ni2pS0) | [Slides](https://docs.google.com/presentation/d/1SYMIZ-LOI8Ylykz0PTxwiPuHN_02gIWh9AjJDO6xbvM/edit?usp=sharing) | **Alexander Granin** | FunctionalConf 2019, Bangalore, India
+- [Hexagonal Architecture and Free Monad: Two related design patterns?](https://www.pinterest.ru/pin/791929915696726474/#amp) | **Quentin Duval**
 - [Large-scale design in Haskell? (SO question)](https://stackoverflow.com/questions/3077866/large-scale-design-in-haskell)
 
 # Design Approaches and Design Patterns
@@ -58,8 +58,8 @@ A structured set of materials on how to build real-world applications in Haskell
 - [Automatic White-Box Testing with Free Monads](https://github.com/graninas/automatic-whitebox-testing-showcase) | **Alexander Granin** | [Showcase](https://github.com/graninas/automatic-whitebox-testing-showcase)
 - [Hierarchical Free Monads and Software Design in Functional Programming (Talk)](https://youtu.be/3GKQ4ni2pS0) | [Slides](https://docs.google.com/presentation/d/1SYMIZ-LOI8Ylykz0PTxwiPuHN_02gIWh9AjJDO6xbvM/edit?usp=sharing) | **Alexander Granin** | FunctionalConf 2019, Bangalore, India
 - [Functional Design and Architecture (Book)](https://graninas.com/functional-design-and-architecture-book/) | **Alexander Granin** | _Note: the whole book is about different aspects of the Free monadic architecture._
-- [Strict typing fun example — Free Monads in Haskell](https://www.endpoint.com/blog/2016/03/11/strict-typing-fun-example-free-monads)
-- [Free Monads: from the basics to the implementation of composable and effectful stream processing](https://deque.blog/2017/11/13/free-monads-from-basics-up-to-implementing-composable-and-effectful-stream-processing/)
+- [Strict typing fun example — Free Monads in Haskell](https://www.endpoint.com/blog/2016/03/11/strict-typing-fun-example-free-monads) | **Kamil Ciemniewski**
+- [Free Monads: from the basics to the implementation of composable and effectful stream processing](https://deque.blog/2017/11/13/free-monads-from-basics-up-to-implementing-composable-and-effectful-stream-processing/) | **Quentin Duval**
 - [What does Free buy us?](https://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html) | **Matt Parsons**
 - [Combining free monads in Haskell](https://blog.ploeh.dk/2017/07/24/combining-free-monads-in-haskell/) | **Mark Seemann**
 - [Free monad considered harmful](https://markkarpov.com/post/free-monad-considered-harmful.html) | **Mark Karpov**
@@ -71,11 +71,11 @@ A structured set of materials on how to build real-world applications in Haskell
 - [Tagless Final Encoding in Haskell](https://jproyo.github.io/posts/2019-03-17-tagless-final-haskell.html) | **Juan Pablo Royo**
 - [Introduction to Tagless Final](https://serokell.io/blog/tagless-final) | **Vasiliy Kevroletin** | Serokell
 - [Reducing boilerplate in finally tagless style](https://ro-che.info/articles/2016-02-03-finally-tagless-boilerplate) | **Roman Cheplyaka**
-- [Tagless Final Encoding of a Test Language](https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html)
+- [Tagless Final Encoding of a Test Language](https://wickstrom.tech/programming/2017/06/05/tagless-final-encoding-of-a-test-language.html) | **Oskar Wickström**
 
 ### Effect Systems
 
-- [Eff to the Rescue!](https://mmhaskell.com/blog/2017/11/20/eff-to-the-rescue)
+- [Eff to the Rescue!](https://mmhaskell.com/blog/2017/11/20/eff-to-the-rescue) | **Monday Morning Haskell**
 - [Freer doesn’t come for free](https://medium.com/barely-functional/freer-doesnt-come-for-free-c9fade793501) | **Eric Torreborre**
 - [Serving HTTP Content with Fused-Effects](https://blog.sumtypeofway.com/posts/serving-http-content-with-fused-effects.html) | **Patrick Thomson**
 - [A Practical Introduction to Freer Monads (Eff)](https://captjakk.com/posts/2019-05-12-practical-intro-eff.html) | **Keagan McClelland**
@@ -84,7 +84,7 @@ A structured set of materials on how to build real-world applications in Haskell
 
 - [The ReaderT Design Pattern](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) | **Michael Snoyman**
 - [The ReaderT design pattern or tagless final?](http://magnus.therning.org/posts/2019-02-02-000-the-readert-design-pattern-or-tagless-final-.html) | **Magnus Therning**
-- [Capability: The ReaderT Pattern Without The Boilerplate](https://www.tweag.io/posts/2018-10-04-capability.html)
+- [Capability: The ReaderT Pattern Without The Boilerplate](https://www.tweag.io/posts/2018-10-04-capability.html) | **Andreas Herrmann, Arnaud Spiwack** | Tweag.IO
 
 ### Service Handle Pattern
 
