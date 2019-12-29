@@ -19,7 +19,7 @@ A structured set of materials on how to build real-world applications in Haskell
   * [Comparison of Approaches](#Comparison-of-Approaches)
   * [Comparison Table](#Comparison-Table)
 * [Design Principles](#Design-Principles)
-* [Methodologies and Phylosophy](#Methodologies-and-phylosophy)
+* [Methodologies and Philosophy](#Methodologies-and-philosophy)
 * [Best Practices & Guidelines](#Best-Practices--Guidelines)
 * [Showcase Projects & Code Organization Samples](#Showcase-Projects--Code-Orgranization-Samples)
 * [Haskell in Production. Success Stories, Experience Reports](#Haskell-in-Production--Success-Stories--Experience-Reports)
@@ -116,7 +116,7 @@ A structured set of materials on how to build real-world applications in Haskell
 Separate page:
 - [Haskell Approaches Comparison Table](https://gist.github.com/graninas/1b7961ccaedf7b5cb92417a1599fdc99)
 
-# Phylosophy
+# Methodologies and Philosophy
 
 - [Boring Haskell Manifesto](https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto) | **Michael Snoyman** | [Reddit discussion](https://www.reddit.com/r/haskell/comments/dzx15d/boring_haskell_manifesto_by_michael_snoyman/)
 - [The Haskell Pyramid](https://patrickmn.com/software/the-haskell-pyramid/) | **Patrick**
