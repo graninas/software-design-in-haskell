@@ -187,6 +187,7 @@ This section is aimed to show that learning and using Haskell is not as horrible
 - [2018 State of Haskell Survey results](https://taylor.fausak.me/2018/11/18/2018-state-of-haskell-survey-results/) | **Taylor Fausak**
 - [2019 State of Haskell Survey results](https://taylor.fausak.me/2019/11/16/haskell-survey-results/) | **Taylor Fausak**
 - [The Haskell Pyramid](https://patrickmn.com/software/the-haskell-pyramid/) | **Patrick**
+- [Haskell Survey Results 2018 (FP Complete)](https://www.fpcomplete.com/blog/2018-haskell-survey-results) | FP Complete
 
 ### Haskell Learn: Books
 
