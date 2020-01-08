@@ -144,10 +144,13 @@ Separate page:
 - [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/) | **Lexi Lambda**
 - [Getting things done in Haskell (Talk)](https://www.youtube.com/watch?v=-X1vrxQUETM) |  **Jasper Van der Jeugt** | HaskellerZ, Feb 2018
 - [Working around Haskell's namespace problem for records](https://gist.github.com/mtesseract/1b69087b0aeeb6ddd7023ff05f7b7e68) | **Moritz Clasmeier**
-- [Programming guidelines](https://wiki.haskell.org/Programming_guidelines)
-- [Kowainik's Haskell Style Guide](https://kowainik.github.io/posts/2019-02-06-style-guide)
-- [Tweag.IO's Haskell Style Guide](https://github.com/tweag/guides/blob/master/style/Haskell.md)
-- [Tibbe's Haskell Style Guide](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md)
+- Exceptions
+  * [Exceptions Best Practices in Haskell](https://www.fpcomplete.com/blog/2016/11/exceptions-best-practices-haskell) | **Michael Snoyman** | FP Complete
+- Style Guides
+  * [Programming guidelines](https://wiki.haskell.org/Programming_guidelines)
+  * [Kowainik's Haskell Style Guide](https://kowainik.github.io/posts/2019-02-06-style-guide)
+  * [Tweag.IO's Haskell Style Guide](https://github.com/tweag/guides/blob/master/style/Haskell.md)
+  * [Tibbe's Haskell Style Guide](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md)
 
 # Showcase Projects & Code Orgranization Samples
 
