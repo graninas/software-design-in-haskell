@@ -36,6 +36,7 @@ A structured set of materials on how to build real-world applications in Haskell
 - [Practical Haskell. A Real World Guide to Programming](https://www.apress.com/gp/book/9781484244791) | **Serrano, Alejandro**
 - [Real World Haskell](http://book.realworldhaskell.org/) | **Bryan O'Sullivan, Don Stewart, John Goerzen**
 - [Up-to-date Real World Haskell](https://github.com/tssm/up-to-date-real-world-haskell) | **Bryan O'Sullivan, Don Stewart, John Goerzen, Tae Sandoval**
+- [Haskell Design Patterns](https://www.oreilly.com/library/view/haskell-design-patterns/9781783988723/) | **Ryan Lemmer**
 
 # Application Architectures
 
@@ -94,7 +95,7 @@ A structured set of materials on how to build real-world applications in Haskell
 
 ### Other Patterns
 
-- [(Book) Haskell Design Patterns](https://www.oreilly.com/library/view/haskell-design-patterns/9781783988723/) | **Ryan Lemmer**
+- [Haskell Design Patterns (Book)](https://www.oreilly.com/library/view/haskell-design-patterns/9781783988723/) | **Ryan Lemmer**
 - [Enterprise Haskell Pattern: Lensed Reader](https://michaelxavier.net/posts/2016-04-03-Enterprise-Haskell-Pattern-Lensed-Reader.html) | **Michael Xavier**
 - [The Has Type Class Pattern](https://hackernoon.com/the-has-type-class-pattern-ca12adab70ae) | **Jonathan Fischoff**
 - [Type Class Patterns and Anti-patterns](https://hackernoon.com/type-class-patterns-and-anti-patterns-efd045c5af66) | **Jonathan Fischoff**
@@ -203,9 +204,10 @@ This section is aimed to show that learning and using Haskell is not as horrible
 - [Practical Haskell. A Real World Guide to Programming](https://www.apress.com/gp/book/9781484244791) | **Serrano, Alejandro**
 - [Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming](http://shop.oreilly.com/product/0636920026365.do) | **Simon Marlow**
 - [Real World Haskell](http://book.realworldhaskell.org/) | **Bryan O'Sullivan, Don Stewart, John Goerzen**
+- [Haskell Design Patterns (Book)](https://www.oreilly.com/library/view/haskell-design-patterns/9781783988723/) | **Ryan Lemmer**
 - [Functional Design and Architecture](https://graninas.com/functional-design-and-architecture-book/) | **Alexander Granin**
 - [Thinking with Types. Type-Level Programming in Haskell](https://thinkingwithtypes.com/) | **Sandy Maguire**
-- [Haskell Programming from First Principles](https://haskellbook.com/) | **Chistopher Allen, Julie Moronuki**
+- [Haskell Programming from First Principles (aka Haskell Book)](https://haskellbook.com/) | **Chistopher Allen, Julie Moronuki**
 
 ### Misc
 
