@@ -123,6 +123,7 @@ Separate page:
 - [The Haskell Pyramid](https://patrickmn.com/software/the-haskell-pyramid/) | **Patrick**
 - [My thoughts on Haskell in 2020](https://alpacaaa.net/thoughts-on-haskell-2020/) | **Marco Sampellegrini**
 - [Write Junior Code](https://www.parsonsmatt.org/2019/12/26/write_junior_code.html) | **Matt Parsons**
+- [Fancy Haskell](https://dfithian.github.io/2019/12/30/fancy-haskell.html) | **Dan Fithian**
 
 # Design Principles
 
