@@ -45,6 +45,7 @@ A structured set of materials on how to build real-world applications in Haskell
 - [Modern Functional Programming: Part 2](http://degoes.net/articles/modern-fp-part-2) | **John A De Goes**
 - [Anatomy of a Haskell-based Application](https://abailly.github.io/posts/cm-arch-design.html)
 - [Architecture of a Real World Haskell Application](https://www.onikudaki.net/blog/archives/6) | **Michael Oswald**
+- [Functional architecture - The pits of success](https://m.youtube.com/watch?v=US8QG9I1XW0) | **Mark Seemann** | NDC Sidney 2016
 - [Hierarchical Free Monads and Software Design in Functional Programming (Talk)](https://youtu.be/3GKQ4ni2pS0) | [Slides](https://docs.google.com/presentation/d/1SYMIZ-LOI8Ylykz0PTxwiPuHN_02gIWh9AjJDO6xbvM/edit?usp=sharing) | **Alexander Granin** | FunctionalConf 2019, Bangalore, India
 - [Hexagonal Architecture and Free Monad: Two related design patterns?](https://www.pinterest.ru/pin/791929915696726474/#amp) | **Quentin Duval**
 - [Large-scale design in Haskell? (SO question)](https://stackoverflow.com/questions/3077866/large-scale-design-in-haskell)
@@ -175,6 +176,7 @@ Separate page:
 # Talks
 
 - [Getting things done in Haskell (Talk)](https://www.youtube.com/watch?v=-X1vrxQUETM) |  **Jasper Van der Jeugt** | HaskellerZ, Feb 2018
+- [Functional architecture - The pits of success](https://m.youtube.com/watch?v=US8QG9I1XW0) | **Mark Seemann** | NDC Sidney 2016
 - [Hierarchical Free Monads and Software Design in Functional Programming (Talk)](https://youtu.be/3GKQ4ni2pS0) | [Slides](https://docs.google.com/presentation/d/1SYMIZ-LOI8Ylykz0PTxwiPuHN_02gIWh9AjJDO6xbvM/edit?usp=sharing) | **Alexander Granin** | FunctionalConf 2019, Bangalore, India
 - [Final Tagless vs Free Monad (Talk, Rus)](https://youtu.be/u1GGqDQyGfc) | [Slides (Eng)](https://drive.google.com/open?id=1VhS8ySgk2w5RoN_l_Ar_axcE4Dzf97zLw1uuzUJQbCo) | **Alexander Granin** | FPure 2019, Kazan
 - [Haskell is Not For Production and Other Tales (Talk)](https://m.youtube.com/watch?v=mlTO510zO78) | **Katie Miller** | Linux.conf.au 2016 | Geelong, Australia
