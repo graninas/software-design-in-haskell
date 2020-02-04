@@ -27,6 +27,7 @@ A structured set of materials on how to build real-world applications in Haskell
 * [Haskell Ecosystem and Accessibility](#Haskell-Ecosystem-and-Accessibility)
   * [Haskell Ecosystem and Community](#Haskell-Ecosystem-and-Community)
   * [Haskell Learn: Books](#Haskell-Learn--Books)
+* [Misc](#Misc)
 
 --------
 
@@ -218,3 +219,5 @@ This section is aimed to show that learning and using Haskell is not as horrible
   - [Testing](https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf#Testing)
   - [Final Tagless](https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf#Final-tagless)
   - [Records](https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf#Records)
+  - [Exceptions and Error Handling](https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf#Exceptions-and-Error-Handling)
+  - [Build Tools]((https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf#Build-Tools)
