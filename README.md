@@ -220,4 +220,4 @@ This section is aimed to show that learning and using Haskell is not as horrible
   - [Final Tagless](https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf#Final-tagless)
   - [Records](https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf#Records)
   - [Exceptions and Error Handling](https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf#Exceptions-and-Error-Handling)
-  - [Build Tools]((https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf#Build-Tools)
+  - [Build Tools](https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf#Build-Tools)
