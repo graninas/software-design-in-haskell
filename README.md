@@ -177,6 +177,7 @@ Separate page:
 # Talks
 
 - [Getting things done in Haskell (Talk)](https://www.youtube.com/watch?v=-X1vrxQUETM) |  **Jasper Van der Jeugt** | HaskellerZ, Feb 2018
+- [Your Second Haskell Web App—A Yesod Workshop with Michael Snoyman](https://www.youtube.com/watch?v=LEdEOlLlMfM) | **Michael Snoyman**
 - [Functional architecture - The pits of success](https://m.youtube.com/watch?v=US8QG9I1XW0) | **Mark Seemann** | NDC Sidney 2016
 - [Hierarchical Free Monads and Software Design in Functional Programming (Talk)](https://youtu.be/3GKQ4ni2pS0) | [Slides](https://docs.google.com/presentation/d/1SYMIZ-LOI8Ylykz0PTxwiPuHN_02gIWh9AjJDO6xbvM/edit?usp=sharing) | **Alexander Granin** | FunctionalConf 2019, Bangalore, India
 - [Final Tagless vs Free Monad (Talk, Rus)](https://youtu.be/u1GGqDQyGfc) | [Slides (Eng)](https://drive.google.com/open?id=1VhS8ySgk2w5RoN_l_Ar_axcE4Dzf97zLw1uuzUJQbCo) | **Alexander Granin** | FPure 2019, Kazan
