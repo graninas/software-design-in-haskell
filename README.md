@@ -58,6 +58,7 @@ A structured set of materials on how to build real-world applications in Haskell
 - [Why free monads matter](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html) | **Gabriel Gonzalez**
 - [Free monads in 7 easy steps](https://joa.sh/posts/2015-09-13-free-monad-steps.html)
 - [A Modern Architecture for FP](http://degoes.net/articles/modern-fp) | **John A De Goes**
+- [Hierarchical Free Monads: The Most Developed Approach In Haskell (And The Death Of Final Tagless)](https://github.com/graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell/blob/master/README.md#Testability)
 - [Building network actors with Node Framework](https://gist.github.com/graninas/9beb8df5d88dda5fa21c47ce9bcb0e16) | **Alexander Granin** | _Note: a Free monadic architecture is described there._
 - [Automatic White-Box Testing with Free Monads](https://github.com/graninas/automatic-whitebox-testing-showcase) | **Alexander Granin** | [Showcase](https://github.com/graninas/automatic-whitebox-testing-showcase)
 - [Hierarchical Free Monads and Software Design in Functional Programming (Talk)](https://youtu.be/3GKQ4ni2pS0) | [Slides](https://docs.google.com/presentation/d/1SYMIZ-LOI8Ylykz0PTxwiPuHN_02gIWh9AjJDO6xbvM/edit?usp=sharing) | **Alexander Granin** | FunctionalConf 2019, Bangalore, India
