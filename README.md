@@ -113,7 +113,7 @@ A structured set of materials on how to build real-world applications in Haskell
 - [Which Type-Safe Database Library Should You Use?](https://williamyaoh.com/posts/2019-12-14-typesafe-db-libraries.html) | **William Yao**
 - [Final Tagless vs Free Monad (Talk, Rus)](https://youtu.be/u1GGqDQyGfc) | [Slides (Eng)](https://drive.google.com/open?id=1VhS8ySgk2w5RoN_l_Ar_axcE4Dzf97zLw1uuzUJQbCo) | **Alexander Granin** | FPure 2019, Kazan
 - [Monad transformers, free monads, mtl, laws and a new approach](https://ocharles.org.uk/posts/2016-01-26-transformers-free-monads-mtl-laws.html) | **Oliver Charles**
-- [Backpack for initial and final encodings](https://qfpl.io/posts/backpack-for-initial-and-final-encodings/)
+- [Backpack for initial and final encodings](https://qfpl.io/posts/backpack-for-initial-and-final-encodings/) | **qfpl**
 - [Capability: The ReaderT Pattern Without The Boilerplate](https://www.tweag.io/posts/2018-10-04-capability.html) | **Andreas Herrmann, Arnaud Spiwack** | Tweag.io
 
 ### Comparison Table
