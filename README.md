@@ -44,10 +44,10 @@ A structured set of materials on how to build real-world applications in Haskell
 - [Three Layer Haskell Cake](https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html) | **Matt Parsons**
 - [A Modern Architecture for FP](http://degoes.net/articles/modern-fp) | **John A De Goes**
 - [Modern Functional Programming: Part 2](http://degoes.net/articles/modern-fp-part-2) | **John A De Goes**
-- [Anatomy of a Haskell-based Application](https://abailly.github.io/posts/cm-arch-design.html)
+- [Anatomy of a Haskell-based Application](https://abailly.github.io/posts/cm-arch-design.html) | **abailly**
 - [Architecture of a Real World Haskell Application](https://www.onikudaki.net/blog/archives/6) | **Michael Oswald**
 - [Functional architecture - The pits of success](https://m.youtube.com/watch?v=US8QG9I1XW0) | **Mark Seemann** | NDC Sidney 2016
-- [Hierarchical Free Monads: The Most Developed Approach In Haskell (And The Death Of Final Tagless)](https://github.com/graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell/blob/master/README.md)
+- [Hierarchical Free Monads: The Most Developed Approach In Haskell (And The Death Of Final Tagless)](https://github.com/graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell/blob/master/README.md) | **Alexander Granin**
 - [Hierarchical Free Monads and Software Design in Functional Programming (Talk)](https://youtu.be/3GKQ4ni2pS0) | [Slides](https://docs.google.com/presentation/d/1SYMIZ-LOI8Ylykz0PTxwiPuHN_02gIWh9AjJDO6xbvM/edit?usp=sharing) | **Alexander Granin** | FunctionalConf 2019, Bangalore, India
 - [Hexagonal Architecture and Free Monad: Two related design patterns?](https://www.pinterest.ru/pin/791929915696726474/#amp) | **Quentin Duval**
 - [Large-scale design in Haskell? (SO question)](https://stackoverflow.com/questions/3077866/large-scale-design-in-haskell)
@@ -57,11 +57,11 @@ A structured set of materials on how to build real-world applications in Haskell
 ### Free Monads
 
 - [Why free monads matter](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html) | **Gabriel Gonzalez**
-- [Free monads in 7 easy steps](https://joa.sh/posts/2015-09-13-free-monad-steps.html)
+- [Free monads in 7 easy steps](https://joa.sh/posts/2015-09-13-free-monad-steps.html) | **joa**
 - [A Modern Architecture for FP](http://degoes.net/articles/modern-fp) | **John A De Goes**
-- [Hierarchical Free Monads: The Most Developed Approach In Haskell (And The Death Of Final Tagless)](https://github.com/graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell/blob/master/README.md)
 - [Building network actors with Node Framework](https://gist.github.com/graninas/9beb8df5d88dda5fa21c47ce9bcb0e16) | **Alexander Granin** | _Note: a Free monadic architecture is described there._
 - [Automatic White-Box Testing with Free Monads](https://github.com/graninas/automatic-whitebox-testing-showcase) | **Alexander Granin** | [Showcase](https://github.com/graninas/automatic-whitebox-testing-showcase)
+- [Hierarchical Free Monads: The Most Developed Approach In Haskell (And The Death Of Final Tagless)](https://github.com/graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell/blob/master/README.md) | **Alexander Granin**
 - [Hierarchical Free Monads and Software Design in Functional Programming (Talk)](https://youtu.be/3GKQ4ni2pS0) | [Slides](https://docs.google.com/presentation/d/1SYMIZ-LOI8Ylykz0PTxwiPuHN_02gIWh9AjJDO6xbvM/edit?usp=sharing) | **Alexander Granin** | FunctionalConf 2019, Bangalore, India
 - [Functional Design and Architecture (Book)](https://graninas.com/functional-design-and-architecture-book/) | **Alexander Granin** | _Note: the whole book is about different aspects of the Free monadic architecture._
 - [Strict typing fun example — Free Monads in Haskell](https://www.endpoint.com/blog/2016/03/11/strict-typing-fun-example-free-monads) | **Kamil Ciemniewski**
@@ -146,7 +146,7 @@ Separate page:
 
 - [Figuring Out How To Use Beam For DB Migrations](https://williamyaoh.com/posts/2019-09-27-figuring-out-beam-migrations.html) | **Willam Yao**
 - [Making a small Haskell application](https://github.com/morteako/bitcoin) | **Morten Kolstad** 
-- [Haskell practices](https://github.com/freckle/guides/blob/master/haskell-best-practices.md)
+- [Haskell practices](https://github.com/freckle/guides/blob/master/haskell-best-practices.md) | **freckle**
 - [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/) | **Lexi Lambda**
 - [Getting things done in Haskell (Talk)](https://www.youtube.com/watch?v=-X1vrxQUETM) |  **Jasper Van der Jeugt** | HaskellerZ, Feb 2018
 - [Working around Haskell's namespace problem for records](https://gist.github.com/mtesseract/1b69087b0aeeb6ddd7023ff05f7b7e68) | **Moritz Clasmeier**
