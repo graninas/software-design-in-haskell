@@ -128,6 +128,8 @@ Separate page:
 - [My thoughts on Haskell in 2020](https://alpacaaa.net/thoughts-on-haskell-2020/) | **Marco Sampellegrini**
 - [Write Junior Code](https://www.parsonsmatt.org/2019/12/26/write_junior_code.html) | **Matt Parsons**
 - [Fancy Haskell](https://dfithian.github.io/2019/12/30/fancy-haskell.html) | **Dan Fithian**
+- [Simple Haskell Is Best Haskell](https://medium.com/@fommil/simple-haskell-is-best-haskell-6a1ea59c73b) | **Sam Halliday**
+- [On Marketing Haskell](https://www.stephendiehl.com/posts/marketing.html) | **Stephen Diehl**
 
 # Design Principles
 
