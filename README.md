@@ -26,7 +26,7 @@ A structured set of materials on how to build real-world applications in Haskell
 * [Talks](#Talks)
 * [Haskell Ecosystem and Accessibility](#Haskell-Ecosystem-and-Accessibility)
   * [Haskell Ecosystem and Community](#Haskell-Ecosystem-and-Community)
-  * [Haskell Learn: Books](#Haskell-Learn--Books)
+  * [Haskell Learn: Books](#Haskell-Learn-Books)
 * [Misc](#Misc)
 
 --------
