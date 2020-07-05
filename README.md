@@ -210,6 +210,7 @@ This section is aimed to show that learning and using Haskell is not as horrible
 - [Haskell from the Very Beginning](https://www.haskellfromtheverybeginning.com/) | **John Whitington**
 - [Learn You a Haskell for Great Good!]( http://learnyouahaskell.com/) | **Miran Lipovača**
 - [Programming in Haskell](https://www.cs.nott.ac.uk/~pszgmh/pih.html) | **Graham Hutton**
+- [Beginning Haskell: A Project-Based Approach](https://www.apress.com/gp/book/9781430262510) | **Serrano, Alejandro**
 - [Practical Haskell. A Real World Guide to Programming](https://www.apress.com/gp/book/9781484244791) | **Serrano, Alejandro**
 - [Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming](http://shop.oreilly.com/product/0636920026365.do) | **Simon Marlow**
 - [Real World Haskell](http://book.realworldhaskell.org/) | **Bryan O'Sullivan, Don Stewart, John Goerzen**
