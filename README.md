@@ -223,6 +223,7 @@ This section is aimed to show that learning and using Haskell is not as horrible
 - [Algorithm Design with Haskell](https://www.amazon.com/Algorithm-Design-Haskell-Richard-Bird/dp/1108491618) | **Richard Bird, Jeremy Gibbons**
 - [Thinking Functionally with Haskell](https://www.amazon.com/Thinking-Functionally-Haskell-Richard-Bird/dp) | **Richard Bird**
 - [Haskell: The Craft of Functional Programming](https://www.amazon.com/Haskell-Functional-Programming-International-Computer/dp/0201882957) | **Simon Thompson**
+- [Practical Web Development with Haskell](https://www.amazon.com/Practical-Web-Development-Haskell-Applications-ebook/dp/B07FP523HS) | **Ecky Putrady**
 
 ### Misc
 
