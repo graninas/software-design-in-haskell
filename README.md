@@ -222,6 +222,7 @@ This section is aimed to show that learning and using Haskell is not as horrible
 - [The Haskell School of Music: From Signals to Symphonies](https://www.amazon.com/Haskell-School-Music-Signals-Symphonies/dp/1108416756) | **Paul Hudak, Donya Quick**
 - [Algorithm Design with Haskell](https://www.amazon.com/Algorithm-Design-Haskell-Richard-Bird/dp/1108491618) | **Richard Bird, Jeremy Gibbons**
 - [Thinking Functionally with Haskell](https://www.amazon.com/Thinking-Functionally-Haskell-Richard-Bird/dp) | **Richard Bird**
+- [Haskell: The Craft of Functional Programming](https://www.amazon.com/Haskell-Functional-Programming-International-Computer/dp/0201882957) | **Simon Thompson**
 
 ### Misc
 
