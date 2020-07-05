@@ -219,6 +219,8 @@ This section is aimed to show that learning and using Haskell is not as horrible
 - [Thinking with Types. Type-Level Programming in Haskell](https://thinkingwithtypes.com/) | **Sandy Maguire**
 - [Haskell Programming from First Principles (aka Haskell Book)](https://haskellbook.com/) | **Chistopher Allen, Julie Moronuki**
 - [Optics by example](https://leanpub.com/optics-by-example) | **Chris Penner**
+- [The Haskell School of Music: From Signals to Symphonies](https://www.amazon.com/Haskell-School-Music-Signals-Symphonies/dp/1108416756) | **Paul Hudak, Donya Quick**
+- [Algorithm Design with Haskell](https://www.amazon.com/Algorithm-Design-Haskell-Richard-Bird/dp/1108491618) | **Richard Bird, Jeremy Gibbons**
 
 ### Misc
 
