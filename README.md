@@ -154,6 +154,7 @@ Separate page:
 - [Working around Haskell's namespace problem for records](https://gist.github.com/mtesseract/1b69087b0aeeb6ddd7023ff05f7b7e68) | **Moritz Clasmeier**
 - Exceptions
   * [Exceptions Best Practices in Haskell](https://www.fpcomplete.com/blog/2016/11/exceptions-best-practices-haskell) | **Michael Snoyman** | FP Complete
+  * [Exceptions tutorial](https://markkarpov.com/tutorial/exceptions.html) | **Mark Karpov**
 - Style Guides
   * [Programming guidelines](https://wiki.haskell.org/Programming_guidelines)
   * [Kowainik's Haskell Style Guide](https://kowainik.github.io/posts/2019-02-06-style-guide)
