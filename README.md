@@ -21,6 +21,8 @@ A structured set of materials on how to build real-world applications in Haskell
 * [Design Principles](#Design-Principles)
 * [Philosophy](#Philosophy)
 * [Best Practices & Guidelines](#Best-Practices--Guidelines)
+  * [Exceptions](#Exceptions)
+  * [Style Guides](#Style-Guides)
 * [Showcase Projects & Code Organization Samples](#Showcase-Projects--Code-Orgranization-Samples)
 * [Haskell in Production. Success Stories, Experience Reports](#Haskell-in-Production--Success-Stories--Experience-Reports)
 * [Talks](#Talks)
