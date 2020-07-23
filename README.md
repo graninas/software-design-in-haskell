@@ -209,6 +209,10 @@ This section is aimed to show that learning and using Haskell is not as horrible
 - [The Haskell Pyramid](https://patrickmn.com/software/the-haskell-pyramid/) | **Patrick**
 - [Haskell Survey Results 2018 (FP Complete)](https://www.fpcomplete.com/blog/2018-haskell-survey-results) | FP Complete
 
+### Haskeller Competency Matrix
+
+- [Haskeller Competency Matrix (separate page)](https://gist.github.com/graninas/833a9ff306338aefec7e543100c16ea1)
+
 ### Haskell Learn: Books
 
 - [Get Programming with Haskell](https://www.manning.com/books/get-programming-with-haskell) | **Will Kurt**
