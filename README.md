@@ -160,6 +160,7 @@ Separate page:
 
  * [Exceptions Best Practices in Haskell](https://www.fpcomplete.com/blog/2016/11/exceptions-best-practices-haskell) | **Michael Snoyman** | FP Complete
  * [Exceptions tutorial](https://markkarpov.com/tutorial/exceptions.html) | **Mark Karpov**
+ * [The three kinds of Haskell exceptions and how to use them](https://www.tweag.io/blog/2020-04-16-exceptions-in-haskell/) | **Tweag**
  
 ### Style Guides
 
