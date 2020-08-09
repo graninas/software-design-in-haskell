@@ -113,6 +113,7 @@ A structured set of materials on how to build real-world applications in Haskell
 ### Comparison of Approaches
 
 - [Which Type-Safe Database Library Should You Use?](https://williamyaoh.com/posts/2019-12-14-typesafe-db-libraries.html) | **William Yao**
+- [Revising application structure](http://felixmulder.com/writing/2020/08/08/Revisiting-application-structure)
 - [Final Tagless vs Free Monad (Talk, Rus)](https://youtu.be/u1GGqDQyGfc) | [Slides (Eng)](https://drive.google.com/open?id=1VhS8ySgk2w5RoN_l_Ar_axcE4Dzf97zLw1uuzUJQbCo) | **Alexander Granin** | FPure 2019, Kazan
 - [Monad transformers, free monads, mtl, laws and a new approach](https://ocharles.org.uk/posts/2016-01-26-transformers-free-monads-mtl-laws.html) | **Oliver Charles**
 - [Backpack for initial and final encodings](https://qfpl.io/posts/backpack-for-initial-and-final-encodings/) | **qfpl**
