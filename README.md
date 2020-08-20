@@ -133,6 +133,7 @@ Separate page:
 - [Fancy Haskell](https://dfithian.github.io/2019/12/30/fancy-haskell.html) | **Dan Fithian**
 - [Simple Haskell Is Best Haskell](https://medium.com/@fommil/simple-haskell-is-best-haskell-6a1ea59c73b) | **Sam Halliday**
 - [On Marketing Haskell](https://www.stephendiehl.com/posts/marketing.html) | **Stephen Diehl**
+- [How to market Haskell to mainstream programmers](https://www.youtube.com/watch?v=fNpsgTIpODA) | Talk | **Gabriel Gonzalez **
 
 # Design Principles
 
