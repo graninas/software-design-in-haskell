@@ -101,6 +101,7 @@ A structured set of materials on how to build real-world applications in Haskell
 
 ### Other Patterns
 
+- [Haskell mini-patterns handbook](https://kowainik.github.io/posts/haskell-mini-patterns) | **Kowainik** (**Dmitrii Kovanikov**, **Veronika Romashkina**)
 - [Haskell Design Patterns (Book)](https://www.oreilly.com/library/view/haskell-design-patterns/9781783988723/) | **Ryan Lemmer**
 - [Enterprise Haskell Pattern: Lensed Reader](https://michaelxavier.net/posts/2016-04-03-Enterprise-Haskell-Pattern-Lensed-Reader.html) | **Michael Xavier**
 - [The Has Type Class Pattern](https://hackernoon.com/the-has-type-class-pattern-ca12adab70ae) | **Jonathan Fischoff**
