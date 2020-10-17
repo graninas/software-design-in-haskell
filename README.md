@@ -6,7 +6,7 @@ A structured set of materials on how to build real-world applications in Haskell
 
 ### Table of Contents
 
-* [Books on Software Architecture in Haskell](#Books-on-Software-Architecture-in-Haskell)
+* [Books on Software Design and Architecture in Haskell](#Books-on-Software-Design-and-Architecture-in-Haskell)
 * [Application Architectures](#Application-Architectures)
 * [Design Approaches and Design Patterns](#Design-Approaches-and-Design-Patterns)
   * [Free Monads](#Free-Monads)
@@ -34,9 +34,10 @@ A structured set of materials on how to build real-world applications in Haskell
 
 --------
 
-# Books on Software Architecture in Haskell
+# Books on Software Design and Architecture in Haskell
 
 - [Functional Design and Architecture](https://leanpub.com/functional-design-and-architecture) | **Alexander Granin**
+- [Production Haskell](https://leanpub.com/production-haskell) | **Matt Parsons**
 - [Practical Haskell. A Real World Guide to Programming](https://www.apress.com/gp/book/9781484244791) | **Serrano, Alejandro**
 - [Real World Haskell](http://book.realworldhaskell.org/) | **Bryan O'Sullivan, Don Stewart, John Goerzen**
 - [Up-to-date Real World Haskell](https://github.com/tssm/up-to-date-real-world-haskell) | **Bryan O'Sullivan, Don Stewart, John Goerzen, Tae Sandoval**
@@ -226,6 +227,7 @@ This section is aimed to show that learning and using Haskell is not as horrible
 - [Haskell from the Very Beginning](https://www.haskellfromtheverybeginning.com/) | **John Whitington**
 - [Learn You a Haskell for Great Good!]( http://learnyouahaskell.com/) | **Miran Lipovača**
 - [Programming in Haskell](https://www.cs.nott.ac.uk/~pszgmh/pih.html) | **Graham Hutton**
+- [Production Haskell](https://leanpub.com/production-haskell) | **Matt Parsons**
 - [Beginning Haskell: A Project-Based Approach](https://www.apress.com/gp/book/9781430262510) | **Serrano, Alejandro**
 - [Practical Haskell. A Real World Guide to Programming](https://www.apress.com/gp/book/9781484244791) | **Serrano, Alejandro**
 - [Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming](http://shop.oreilly.com/product/0636920026365.do) | **Simon Marlow**
