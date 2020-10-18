@@ -236,6 +236,7 @@ This section is aimed to show that learning and using Haskell is not as horrible
 - [Haskell Design Patterns (Book)](https://www.oreilly.com/library/view/haskell-design-patterns/9781783988723/) | **Ryan Lemmer**
 - [Functional Design and Architecture](https://leanpub.com/functional-design-and-architecture) | **Alexander Granin**
 - [Thinking with Types. Type-Level Programming in Haskell](https://thinkingwithtypes.com/) | **Sandy Maguire**
+- [Algebra-Driven-Design](https://leanpub.com/algebra-driven-design) | **Sandy Maguire**
 - [Haskell Programming from First Principles (aka Haskell Book)](https://haskellbook.com/) | **Chistopher Allen, Julie Moronuki**
 - [Optics by example](https://leanpub.com/optics-by-example) | **Chris Penner**
 - [The Haskell School of Music: From Signals to Symphonies](https://www.amazon.com/Haskell-School-Music-Signals-Symphonies/dp/1108416756) | **Paul Hudak, Donya Quick**
