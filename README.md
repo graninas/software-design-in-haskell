@@ -38,6 +38,7 @@ A structured set of materials on how to build real-world applications in Haskell
 
 - [Functional Design and Architecture](https://leanpub.com/functional-design-and-architecture) | **Alexander Granin**
 - [Production Haskell](https://leanpub.com/production-haskell) | **Matt Parsons**
+- [Algebra-Driven-Design](https://leanpub.com/algebra-driven-design) | **Sandy Maguire**
 - [Practical Haskell. A Real World Guide to Programming](https://www.apress.com/gp/book/9781484244791) | **Serrano, Alejandro**
 - [Real World Haskell](http://book.realworldhaskell.org/) | **Bryan O'Sullivan, Don Stewart, John Goerzen**
 - [Up-to-date Real World Haskell](https://github.com/tssm/up-to-date-real-world-haskell) | **Bryan O'Sullivan, Don Stewart, John Goerzen, Tae Sandoval**
