@@ -249,6 +249,7 @@ This section is aimed to show that learning and using Haskell is not as horrible
 
 ### Misc
 
+- [HASKELL DOCUMENTATION WITH HADDOCK: WISHES'N'TIPS](https://kowainik.github.io/posts/haddock-tips#top-level) | **Veronika Romashkina**, **Dmitrii Kovanikov** (Kowainik)
 - [Appendix to Software Design in Haskell](https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf)
   - [Testing](https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf#Testing)
   - [Final Tagless](https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf#Final-tagless)
