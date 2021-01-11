@@ -181,6 +181,7 @@ Separate page:
 
 # Haskell in Production. Success Stories, Experience Reports
 
+- [Why Haskell is our first choice for building production software systems](https://www.foxhound.systems/blog/why-haskell-for-production/)
 - [The Joy and Agony of Haskell in Production](http://www.stephendiehl.com/posts/production.html) | **Stephen Diehl**
 - [Haskell is Not For Production and Other Tales (Talk)](https://m.youtube.com/watch?v=mlTO510zO78) | **Katie Miller** | Linux.conf.au 2016 | Geelong, Australia
 - [Production Haskell (Talk)](https://m.youtube.com/watch?v=AZQLkkDXy68) | **Reid Draper**
