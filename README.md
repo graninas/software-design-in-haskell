@@ -43,6 +43,7 @@ A structured set of materials on how to build real-world applications in Haskell
 - [Real World Haskell](http://book.realworldhaskell.org/) | **Bryan O'Sullivan, Don Stewart, John Goerzen**
 - [Up-to-date Real World Haskell](https://github.com/tssm/up-to-date-real-world-haskell) | **Bryan O'Sullivan, Don Stewart, John Goerzen, Tae Sandoval**
 - [Haskell Design Patterns](https://www.oreilly.com/library/view/haskell-design-patterns/9781783988723/) | **Ryan Lemmer**
+- [The Simple Haskell Handbook](https://leanpub.com/simple-haskell-book) | **Marco Sampellegrini**
 
 # Application Architectures
 
