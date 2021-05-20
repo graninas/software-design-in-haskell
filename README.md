@@ -230,6 +230,7 @@ This section is aimed to show that learning and using Haskell is not as horrible
 - [Haskell from the Very Beginning](https://www.haskellfromtheverybeginning.com/) | **John Whitington**
 - [Learn You a Haskell for Great Good!]( http://learnyouahaskell.com/) | **Miran Lipovača**
 - [Programming in Haskell](https://www.cs.nott.ac.uk/~pszgmh/pih.html) | **Graham Hutton**
+- [Simple Haskell](https://leanpub.com/simple-haskell-book) | **Marco Sampellegrini**
 - [Production Haskell](https://leanpub.com/production-haskell) | **Matt Parsons**
 - [Beginning Haskell: A Project-Based Approach](https://www.apress.com/gp/book/9781430262510) | **Serrano, Alejandro**
 - [Practical Haskell. A Real World Guide to Programming](https://www.apress.com/gp/book/9781484244791) | **Serrano, Alejandro**
