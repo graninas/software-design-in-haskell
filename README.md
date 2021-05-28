@@ -44,6 +44,7 @@ A structured set of materials on how to build real-world applications in Haskell
 - [Up-to-date Real World Haskell](https://github.com/tssm/up-to-date-real-world-haskell) | **Bryan O'Sullivan, Don Stewart, John Goerzen, Tae Sandoval**
 - [Haskell Design Patterns](https://www.oreilly.com/library/view/haskell-design-patterns/9781783988723/) | **Ryan Lemmer**
 - [The Simple Haskell Handbook](https://leanpub.com/simple-haskell-book) | **Marco Sampellegrini**
+- [Haskell And Yesod](https://www.yesodweb.com/book) | **Michael Snoyman**
 
 # Application Architectures
 
@@ -231,6 +232,7 @@ This section is aimed to show that learning and using Haskell is not as horrible
 - [Haskell from the Very Beginning](https://www.haskellfromtheverybeginning.com/) | **John Whitington**
 - [Learn You a Haskell for Great Good!]( http://learnyouahaskell.com/) | **Miran Lipovača**
 - [Programming in Haskell](https://www.cs.nott.ac.uk/~pszgmh/pih.html) | **Graham Hutton**
+- [Haskell And Yesod](https://www.yesodweb.com/book) | **Michael Snoyman**
 - [The Simple Haskell Handbook](https://leanpub.com/simple-haskell-book) | **Marco Sampellegrini**
 - [Production Haskell](https://leanpub.com/production-haskell) | **Matt Parsons**
 - [Beginning Haskell: A Project-Based Approach](https://www.apress.com/gp/book/9781430262510) | **Serrano, Alejandro**
