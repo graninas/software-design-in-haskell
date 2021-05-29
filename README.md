@@ -251,6 +251,7 @@ This section is aimed to show that learning and using Haskell is not as horrible
 - [Thinking Functionally with Haskell](https://www.amazon.com/Thinking-Functionally-Haskell-Richard-Bird/dp) | **Richard Bird**
 - [Haskell: The Craft of Functional Programming](https://www.amazon.com/Haskell-Functional-Programming-International-Computer/dp/0201882957) | **Simon Thompson**
 - [Practical Web Development with Haskell](https://www.amazon.com/Practical-Web-Development-Haskell-Applications-ebook/dp/B07FP523HS) | **Ecky Putrady**
+- [Haskell Data Analysis Cookbook](https://www.packtpub.com/product/haskell-data-analysis-cookbook/9781783286331)
 
 ### Misc
 
