@@ -194,6 +194,7 @@ Separate page:
 - [5 Years of Haskell in Production (Talk)](https://youtu.be/hZgW4mT1PkE) | **Alexander Thiemann**
 - [Retrospective: Haskell in Production](https://www.infoq.com/news/2016/08/haskell-production-retrospective/) | **Sergio De Simone**
 - [My “Haskell In Production” Story](https://medium.com/@djoyner/my-haskell-in-production-story-e48897ed54c) | **David Joyner**
+- [Introducing Haskell in Soisy](http://marcosh.github.io/post/2021/06/04/introducing-haskell-in-soisy.html)
 
 # Talks
 
