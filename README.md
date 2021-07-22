@@ -36,7 +36,7 @@ A structured set of materials on how to build real-world applications in Haskell
 
 # Books on Software Design and Architecture in Haskell
 
-- [Functional Design and Architecture](https://leanpub.com/functional-design-and-architecture) | **Alexander Granin**
+- [Functional Design and Architecture (Second Edition)](https://www.manning.com/books/functional-design-and-architecture) | **Alexander Granin**
 - [Production Haskell](https://leanpub.com/production-haskell) | **Matt Parsons**
 - [Algebra-Driven-Design](https://leanpub.com/algebra-driven-design) | **Sandy Maguire**
 - [Practical Haskell. A Real World Guide to Programming](https://www.apress.com/gp/book/9781484244791) | **Serrano, Alejandro**
@@ -241,7 +241,7 @@ This section is aimed to show that learning and using Haskell is not as horrible
 - [Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming](http://shop.oreilly.com/product/0636920026365.do) | **Simon Marlow**
 - [Real World Haskell](http://book.realworldhaskell.org/) | **Bryan O'Sullivan, Don Stewart, John Goerzen**
 - [Haskell Design Patterns](https://www.oreilly.com/library/view/haskell-design-patterns/9781783988723/) | **Ryan Lemmer**
-- [Functional Design and Architecture](https://leanpub.com/functional-design-and-architecture) | **Alexander Granin**
+- [Functional Design and Architecture (Second Edition)](https://www.manning.com/books/functional-design-and-architecture) | **Alexander Granin**
 - [Thinking with Types. Type-Level Programming in Haskell](https://thinkingwithtypes.com/) | **Sandy Maguire**
 - [Algebra-Driven-Design](https://leanpub.com/algebra-driven-design) | **Sandy Maguire**
 - [Haskell Programming from First Principles (aka Haskell Book)](https://haskellbook.com/) | **Chistopher Allen, Julie Moronuki**
