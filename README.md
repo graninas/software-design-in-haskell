@@ -63,7 +63,7 @@ A structured set of materials on how to build real-world applications in Haskell
 
 ### Free Monads
 
-- [Why free monads matter](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html) | **Gabriel Gonzalez**
+- [Why free monads matter](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html) | **la Gonzalez**
 - [Free monads in 7 easy steps](https://joa.sh/posts/2015-09-13-free-monad-steps.html) | **joa**
 - [A Modern Architecture for FP](http://degoes.net/articles/modern-fp) | **John A De Goes**
 - [Building network actors with Node Framework](https://gist.github.com/graninas/9beb8df5d88dda5fa21c47ce9bcb0e16) | **Alexander Granin** | _Note: a Free monadic architecture is described there._
@@ -138,7 +138,7 @@ Separate page:
 - [Fancy Haskell](https://dfithian.github.io/2019/12/30/fancy-haskell.html) | **Dan Fithian**
 - [Simple Haskell Is Best Haskell](https://medium.com/@fommil/simple-haskell-is-best-haskell-6a1ea59c73b) | **Sam Halliday**
 - [On Marketing Haskell](https://www.stephendiehl.com/posts/marketing.html) | **Stephen Diehl**
-- [How to market Haskell to mainstream programmers](https://www.youtube.com/watch?v=fNpsgTIpODA) | Talk | **Gabriel Gonzalez**
+- [How to market Haskell to mainstream programmers](https://www.youtube.com/watch?v=fNpsgTIpODA) | Talk | **Gabriella Gonzalez**
 
 # Design Principles
 
@@ -213,7 +213,7 @@ This section is aimed to show that learning and using Haskell is not as horrible
 
 ### Haskell Ecosystem and Community
 
-- [State of the Haskell ecosystem](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md) | **Gabriel Gonzalez**
+- [State of the Haskell ecosystem](https://github.com/Gabriella439/post-rfc/blob/main/sotu.md) | **Gabriella Gonzalez**
 - [2017 State of Haskell Survey results](https://taylor.fausak.me/2017/11/15/2017-state-of-haskell-survey-results/) | **Taylor Fausak**
 - [2018 State of Haskell Survey results](https://taylor.fausak.me/2018/11/18/2018-state-of-haskell-survey-results/) | **Taylor Fausak**
 - [2019 State of Haskell Survey results](https://taylor.fausak.me/2019/11/16/haskell-survey-results/) | **Taylor Fausak**
