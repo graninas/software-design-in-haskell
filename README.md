@@ -63,7 +63,7 @@ A structured set of materials on how to build real-world applications in Haskell
 
 ### Free Monads
 
-- [Why free monads matter](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html) | **la Gonzalez**
+- [Why free monads matter](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html) | **Gabriella Gonzalez**
 - [Free monads in 7 easy steps](https://joa.sh/posts/2015-09-13-free-monad-steps.html) | **joa**
 - [A Modern Architecture for FP](http://degoes.net/articles/modern-fp) | **John A De Goes**
 - [Building network actors with Node Framework](https://gist.github.com/graninas/9beb8df5d88dda5fa21c47ce9bcb0e16) | **Alexander Granin** | _Note: a Free monadic architecture is described there._
