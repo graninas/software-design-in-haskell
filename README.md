@@ -46,7 +46,7 @@ A structured set of materials on how to build real-world applications in Haskell
 - [The Simple Haskell Handbook](https://leanpub.com/simple-haskell-book) | **Marco Sampellegrini**
 - [Haskell And Yesod](https://www.yesodweb.com/book) | **Michael Snoyman**
 
-# Application Architectures
+# Application Architectures and Methodologies
 
 - [Three Layer Haskell Cake](https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html) | **Matt Parsons**
 - [A Modern Architecture for FP](http://degoes.net/articles/modern-fp) | **John A De Goes**
@@ -55,6 +55,7 @@ A structured set of materials on how to build real-world applications in Haskell
 - [Architecture of a Real World Haskell Application](https://www.onikudaki.net/blog/archives/6) | **Michael Oswald**
 - [Functional architecture - The pits of success](https://m.youtube.com/watch?v=US8QG9I1XW0) | **Mark Seemann** | NDC Sidney 2016
 - [Hierarchical Free Monads: The Most Developed Approach In Haskell (And The Death Of Final Tagless)](https://github.com/graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell/blob/master/README.md) | **Alexander Granin**
+- [Functional Declarative Design: A Comprehensive Methodology for Statically-Typed Functional Programming Languages](https://github.com/graninas/functional-declarative-design-methodology) | **Alexander Granin**
 - [Hierarchical Free Monads and Software Design in Functional Programming (Talk)](https://youtu.be/3GKQ4ni2pS0) | [Slides](https://docs.google.com/presentation/d/1SYMIZ-LOI8Ylykz0PTxwiPuHN_02gIWh9AjJDO6xbvM/edit?usp=sharing) | **Alexander Granin** | FunctionalConf 2019, Bangalore, India
 - [Hexagonal Architecture and Free Monad: Two related design patterns?](https://www.pinterest.ru/pin/791929915696726474/#amp) | **Quentin Duval**
 - [Large-scale design in Haskell? (SO question)](https://stackoverflow.com/questions/3077866/large-scale-design-in-haskell)
