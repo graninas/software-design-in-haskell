@@ -37,6 +37,8 @@ A structured set of materials on how to build real-world applications in Haskell
 # Books on Software Design and Architecture in Haskell
 
 - [Functional Design and Architecture (Second Edition)](https://www.manning.com/books/functional-design-and-architecture) | **Alexander Granin**
+- [Functional Design and Architecture (First Edition)](https://leanpub.com/functional-design-and-architecture) | **Alexander Granin**
+- [Pragmatic Type-Level Design (WIP)](https://github.com/graninas/Pragmatic-Type-Level-Design) | **Alexander Granin**
 - [Production Haskell](https://leanpub.com/production-haskell) | **Matt Parsons**
 - [Algebra-Driven-Design](https://leanpub.com/algebra-driven-design) | **Sandy Maguire**
 - [Practical Haskell. A Real World Guide to Programming](https://www.apress.com/gp/book/9781484244791) | **Serrano, Alejandro**
