@@ -230,7 +230,7 @@ This section is aimed to show that learning and using Haskell is not as horrible
 
 ### Haskeller Competency Matrix
 
-- [Haskeller Competency Matrix (separate page)](https://gist.github.com/graninas/833a9ff306338aefec7e543100c16ea1)
+- [Haskeller Competency Matrix](https://gist.github.com/graninas/833a9ff306338aefec7e543100c16ea1)
 
 ### Haskell Learn: Books
 
